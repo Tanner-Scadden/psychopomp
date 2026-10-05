@@ -296,6 +296,11 @@ again; the new dispatch restarts its clock.
 A monochrome SVG drawn on the Stage through the camera: a bundled Phosphor icon
 by name, or SVG path data. It is rasterized once into the Stage's text atlas and
 tinted by its Tone, so it sizes in world pixels and defocuses like text.
+An optional explicit sRGB **Pigment** overrides the theme's Tone for artwork whose
+color is part of its identity. It still passes through the Stage's exposure and
+highlight rolloff. Multiple paths can form a multicolored composition without
+changing its geometry. `StagePost::FLAT` removes ambient optical treatment for
+editorial graphics; regular and bold Helvetica labels share the same camera.
 
 ## Sprite Sheet
 

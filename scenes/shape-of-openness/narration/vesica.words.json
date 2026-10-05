@@ -1,0 +1,159 @@
+{
+ "wordTimings": [
+  {
+   "word": "Two",
+   "start": 0,
+   "end": 0.26
+  },
+  {
+   "word": "circles,",
+   "start": 0.26,
+   "end": 0.74
+  },
+  {
+   "word": "each",
+   "start": 1.02,
+   "end": 1.62
+  },
+  {
+   "word": "center",
+   "start": 1.62,
+   "end": 1.98
+  },
+  {
+   "word": "on",
+   "start": 1.98,
+   "end": 2.32
+  },
+  {
+   "word": "the",
+   "start": 2.32,
+   "end": 2.44
+  },
+  {
+   "word": "other's",
+   "start": 2.44,
+   "end": 2.84
+  },
+  {
+   "word": "circumference,",
+   "start": 2.84,
+   "end": 3.44
+  },
+  {
+   "word": "the",
+   "start": 3.64,
+   "end": 4.16
+  },
+  {
+   "word": "vesica",
+   "start": 4.16,
+   "end": 4.56
+  },
+  {
+   "word": "piscis.",
+   "start": 4.56,
+   "end": 5.14
+  },
+  {
+   "word": "A",
+   "start": 5.52,
+   "end": 5.88
+  },
+  {
+   "word": "third",
+   "start": 5.88,
+   "end": 6.16
+  },
+  {
+   "word": "space",
+   "start": 6.16,
+   "end": 6.44
+  },
+  {
+   "word": "emerges",
+   "start": 6.44,
+   "end": 6.9
+  },
+  {
+   "word": "from",
+   "start": 6.9,
+   "end": 7.3
+  },
+  {
+   "word": "their",
+   "start": 7.3,
+   "end": 7.48
+  },
+  {
+   "word": "relationship.",
+   "start": 7.48,
+   "end": 7.9
+  },
+  {
+   "word": "Geometry",
+   "start": 8.4,
+   "end": 9.12
+  },
+  {
+   "word": "becomes",
+   "start": 9.12,
+   "end": 9.42
+  },
+  {
+   "word": "available",
+   "start": 9.42,
+   "end": 9.8
+  },
+  {
+   "word": "for",
+   "start": 9.8,
+   "end": 10.24
+  },
+  {
+   "word": "contemplation.",
+   "start": 10.24,
+   "end": 11.04
+  },
+  {
+   "word": "The",
+   "start": 11.46,
+   "end": 11.82
+  },
+  {
+   "word": "rectangle",
+   "start": 11.82,
+   "end": 12.12
+  },
+  {
+   "word": "was",
+   "start": 12.12,
+   "end": 12.58
+  },
+  {
+   "word": "asked",
+   "start": 12.58,
+   "end": 12.86
+  },
+  {
+   "word": "to",
+   "start": 12.86,
+   "end": 13.02
+  },
+  {
+   "word": "reflect",
+   "start": 13.02,
+   "end": 13.32
+  },
+  {
+   "word": "on",
+   "start": 13.32,
+   "end": 13.6
+  },
+  {
+   "word": "this.",
+   "start": 13.6,
+   "end": 13.8
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+  "engine": "elevenlabs",
+  "model": "eleven_v4",
+  "voice": "C7KFSYTllManKOBX99re",
+  "settings": { "stability": 0.55, "similarity": 0.75 },
+  "clips": [
+    { "id": "opening", "text": "[cultivated British voice, museum documentary, grave and completely sincere] An opening requires a boundary. Before we could draw the letter, we had to reconsider the relationship between presence... and absence. [quiet emphasis] This is the shape of openness." },
+    { "id": "cave", "text": "[cultivated British voice, reverent, measured] We began before the alphabet. At Chauvet. At Lascaux. A hand interrupts the pigment. The hand withdraws. An absence becomes an image. [solemn pause] A surprisingly mature approach to negative space, considering the absence of a brand guidelines PDF." },
+    { "id": "circle", "text": "[cultivated British voice, precise, quietly awestruck] Then, the circle. One centre. One distance. An entire perimeter sustained by a single agreement. We studied that agreement very carefully. [deliberate emphasis] Our final mark contains no curved edges." },
+    { "id": "vesica", "text": "[cultivated British voice, professorial seriousness] Two circles. Each centre on the other's circumference. The vesica piscis. A third space emerges from their relationship. Geometry becomes available for contemplation. [lower, restrained] The rectangle was asked to reflect on this." },
+    { "id": "ratio", "text": "[cultivated British voice, exacting, deadpan] Naturally, we considered the golden ratio. One point six one eight. The actual mark is five divided by four. One point two five. [unhurried, final] The golden ratio was thanked for its time." },
+    { "id": "gesture", "text": "[cultivated British voice, intimate scholarly authority] Vasari tells of Giotto answering a request for evidence of his skill with a circle, drawn by hand. A complete proposition in a single gesture. [serious] We answered with four right angles. The restraint is considerable." },
+    { "id": "inferno", "text": "[cultivated British voice, dark documentary gravity] An interior can contain a world. Dante gave his Inferno nine circles. We descended through them, seeking a more rigorous account of enclosure. [quiet, devastating seriousness] At the centre, we found ice. The implications for onboarding were substantial." },
+    { "id": "grid", "text": "[cultivated British voice, crisp and authoritative] Eventually, the grid. Four modules across. Five modules high. Sixty units of responsibility on every side. Fourteen modules of perimeter. Six within. [reverent] Structure, in service of the space it permits." },
+    { "id": "counter", "text": "[cultivated British voice, forensic calm] The counter is not empty. A secondary plane occupies its lower two thirds. Seventy per cent perimeter. Twenty per cent secondary ink. Ten per cent transparency. [soft, utterly earnest] Even our nothing has a specification." },
+    { "id": "optics", "text": "[cultivated British voice, precise, measured] Equality is not equilibrium. We examined weight. Optical alignment. The interval between letters. A space too generous becomes a departure. A space too narrow becomes a merger. [grave] Neither had been approved." },
+    { "id": "pepsi", "text": "[cultivated British voice, prestigious design documentary, sincere] One proposal reconciled the thermal energy of red with the contemplative depth of blue. Recognition was immediate. Particularly in the carbonated beverage category. [cold, administrative finality] Disposition: rejected. Designer dismissed." },
+    { "id": "alternatives", "text": "[cultivated British voice, brisk museum curator] Further studies explored convergence. Precision. An operatic opening. A softer boundary. An irrational accommodation. [slow, solemn] Each advanced our understanding of what the mark must not become." },
+    { "id": "finale", "text": "[cultivated British voice, quietly transcendent, entirely sincere] After the caves, the compass, the circles of Hell, and a necessary personnel adjustment... we returned to the opening. Four by five. No curves. [long pause, intimate conviction] OpenCode. Room for what comes next." }
+  ]
+}

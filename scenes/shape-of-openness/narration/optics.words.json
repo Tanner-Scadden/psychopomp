@@ -1,0 +1,159 @@
+{
+ "wordTimings": [
+  {
+   "word": "Equality",
+   "start": 0,
+   "end": 0.44
+  },
+  {
+   "word": "is",
+   "start": 0.44,
+   "end": 0.86
+  },
+  {
+   "word": "not",
+   "start": 0.86,
+   "end": 1.16
+  },
+  {
+   "word": "equilibrium.",
+   "start": 1.16,
+   "end": 1.74
+  },
+  {
+   "word": "We",
+   "start": 2.37,
+   "end": 2.72
+  },
+  {
+   "word": "examined",
+   "start": 2.72,
+   "end": 3.14
+  },
+  {
+   "word": "weight,",
+   "start": 3.14,
+   "end": 3.48
+  },
+  {
+   "word": "optical",
+   "start": 3.7,
+   "end": 4.38
+  },
+  {
+   "word": "alignment,",
+   "start": 4.38,
+   "end": 4.92
+  },
+  {
+   "word": "the",
+   "start": 5.24,
+   "end": 5.7
+  },
+  {
+   "word": "interval",
+   "start": 5.7,
+   "end": 6.1
+  },
+  {
+   "word": "between",
+   "start": 6.1,
+   "end": 6.46
+  },
+  {
+   "word": "letters.",
+   "start": 6.46,
+   "end": 6.9
+  },
+  {
+   "word": "A",
+   "start": 7.369999999999999,
+   "end": 7.72
+  },
+  {
+   "word": "space",
+   "start": 7.72,
+   "end": 7.98
+  },
+  {
+   "word": "too",
+   "start": 7.98,
+   "end": 8.24
+  },
+  {
+   "word": "generous",
+   "start": 8.24,
+   "end": 8.72
+  },
+  {
+   "word": "becomes",
+   "start": 8.72,
+   "end": 9.1
+  },
+  {
+   "word": "a",
+   "start": 9.1,
+   "end": 9.3
+  },
+  {
+   "word": "departure.",
+   "start": 9.3,
+   "end": 9.6
+  },
+  {
+   "word": "A",
+   "start": 9.94,
+   "end": 10.44
+  },
+  {
+   "word": "space",
+   "start": 10.44,
+   "end": 10.66
+  },
+  {
+   "word": "too",
+   "start": 10.66,
+   "end": 10.88
+  },
+  {
+   "word": "narrow",
+   "start": 10.88,
+   "end": 11.22
+  },
+  {
+   "word": "becomes",
+   "start": 11.22,
+   "end": 11.7
+  },
+  {
+   "word": "a",
+   "start": 11.7,
+   "end": 11.9
+  },
+  {
+   "word": "merger.",
+   "start": 11.9,
+   "end": 12.12
+  },
+  {
+   "word": "Neither",
+   "start": 12.93,
+   "end": 13.28
+  },
+  {
+   "word": "had",
+   "start": 13.28,
+   "end": 13.6
+  },
+  {
+   "word": "been",
+   "start": 13.6,
+   "end": 13.78
+  },
+  {
+   "word": "approved.",
+   "start": 13.78,
+   "end": 14.04
+  }
+ ]
+}

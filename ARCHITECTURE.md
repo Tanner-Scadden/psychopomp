@@ -49,7 +49,7 @@ Lightweight crate (`crates/psychopomp/src`):
 - `crates/psychopomp/src/meter.rs`: Meter recipe values (ring, countdown, bar), angle and threshold-tone math, and the `MeterActor` handle (`set`, `sweep`, `countdown`, `flash`, show, hide)
 - `crates/psychopomp/src/bars.rs`: Benchmark Bars recipe values, row geometry, delta chip text, stable `ranking` and crossing `paint_order`, and the `BarsActor` handle (`grow`, `set`, `sort`, `reveal_rows`, `reveal_deltas`, show, hide)
 - `crates/psychopomp/src/subtitles.rs`: Subtitles recipe values (from a placed narration clip), page chunking and line balancing, and the time-sampled page, word-ink, pill, and backing poses
-- `crates/psychopomp/src/face.rs`: the typefaces a Stage label or Subtitles can be set in (`Face`): bundled CommitMono or an installed display face
+- `crates/psychopomp/src/face.rs`: the typefaces a Stage label or Subtitles can be set in (`Face`): bundled CommitMono, regular/bold Helvetica, or an installed display face
 - `crates/psychopomp/src/confetti.rs`: Confetti recipe values and the `ConfettiActor` handle (`burst`)
 - `crates/psychopomp/src/lens.rs`: Lens recipe values, the sampled `Glass` (outline, rim bend, source mapping, bounds), and the `LensActor` handle (`show`, `hide`, `move_to`, `slide`, `magnify`, `resize`, `focus`)
 - `crates/psychopomp/src/video.rs`: Video Card recipe values (footage size, card rect, title), focus-window math, placement helper, and the `VideoActor` handle (`fly_in`, `focus`, `unfocus`, `hide`)
@@ -172,6 +172,7 @@ Scene Programs (`scenes/`), each emitting a Scene Plan, Deck, or Reel:
 - `scenes/opencode-session-tool/`: rapid-fire OpenCode v2 hot-reload proof using a split Vim/OpenCode Video Card, layered SFX, and text
 - `scenes/opencode-jr-architecture/`: narrated Stage-film teaching reel of the OpenCode Jr Slack bot, with one condensed code zoom
 - `scenes/pr-walkthrough/`: narrated PR explainer reels; `src/film.rs` is the shared PR-film template (header, chips, behavior and code segments)
+- `scenes/shape-of-openness/`: flat editorial design film; exact SVG artwork, Helvetica, thick graphic strokes, explicit pigments, image plates, and phrase-timed hard cuts on the Stage
 - `scenes/config-migration/`: narrated reels of two OpenCode config pull requests built on the PR-film template
 - `scenes/pr-50231/`: narrated Stage film of the Effect rc.112 → rc.117 upgrade and the three behaviors the compiler could not catch
 - `scenes/rolling-number/`: Rolling Number showroom: roll up and down, a mid-roll redirect, a carry into a new place, and a shrink

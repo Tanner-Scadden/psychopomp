@@ -2724,9 +2724,12 @@ impl<'a> Painter<'a> {
                     self.path(order, id, *tone, *width, *dash, *arrow, legs);
                 }
             }
-            (StageElement::Icon { size, tone, .. }, Some(place)) => {
-                self.icon(order, id, *size, *tone, place)
-            }
+            (
+                StageElement::Icon {
+                    size, tone, ink, ..
+                },
+                Some(place),
+            ) => self.icon(order, id, *size, *tone, *ink, place),
             (
                 StageElement::Footage {
                     size,
@@ -4423,7 +4426,15 @@ impl Painter<'_> {
 
     /// An icon: its atlas coverage tinted by its tone, `size` world pixels
     /// square through the camera. A flash lifts its ink toward white.
-    fn icon(&mut self, order: usize, id: &str, size: f32, tone: Tone, place: Placement) {
+    fn icon(
+        &mut self,
+        order: usize,
+        id: &str,
+        size: f32,
+        tone: Tone,
+        ink: Option<[u8; 3]>,
+        place: Placement,
+    ) {
         let (scene, look) = (self.scene, self.look);
         let opacity = scene.unit(id, "opacity");
         let key = text_key(id, "icon");
@@ -4435,10 +4446,10 @@ impl Painter<'_> {
         }
         let flash = scene.v(id, "flash").clamp(0.0, 1.5);
         let blur = scene.blur_at(place.depth) + scene.v(id, "blur").max(0.0) * place.scale;
-        let own = match tone {
+        let own = ink.map(linear3).unwrap_or_else(|| match tone {
             Tone::Plain => look.text,
             tone => look.tone(tone),
-        };
+        });
         let color = own.lerp(Vec3::ONE, (0.4 * flash).min(1.0));
         let side = size * place.scale;
         let top_left = place.center - Vec2::splat(side * 0.5);
@@ -5275,6 +5286,48 @@ mod tests {
             sprite.pixels.chunks(4).all(|p| p[3] == 255),
             "path data fills its view"
         );
+    }
+
+    #[test]
+    #[ignore = "requires a headless GPU; explicit art pigment survives neutral themes and holes stay transparent"]
+    fn flat_art_keeps_pigment_holes_and_identical_rest_frames() {
+        let recipe: StagePlan = serde_json::from_value(serde_json::json!({
+            "post": psychopomp::stage::StagePost::FLAT,
+            "elements": [{ "kind": "icon", "id": "art", "at": [160, 90, 0],
+                "size": 100, "view": 300, "ink": [0, 75, 147],
+                "path": "M210 60H90V240H210V60ZM270 300H30V0H270V300Z" }]
+        }))
+        .unwrap();
+        let mut renderer = pollster::block_on(HeadlessRenderer::new(crate::render::RenderSpec {
+            width: 320,
+            height: 180,
+            file_name: "flat-art-proof".into(),
+        }))
+        .unwrap();
+        renderer.set_theme(super::Theme::Neutral);
+        let gpu = renderer.prepare_stage(&recipe).unwrap();
+        let frame = renderer
+            .render_stage(&recipe, &gpu, 0.0, |_, rest| rest)
+            .unwrap();
+        let pixel = |x: usize, y: usize| &frame[(y * 320 + x) * 4..(y * 320 + x) * 4 + 3];
+        assert_eq!(
+            pixel(160, 90),
+            pixel(10, 10),
+            "the counter is the actual background"
+        );
+        let ink = pixel(130, 90);
+        assert!(
+            ink[2] > ink[1] && ink[1] > ink[0],
+            "blue artwork is not neutralized: {ink:?}"
+        );
+        for time in [2.0, 0.5, 0.0] {
+            assert_eq!(
+                frame,
+                renderer
+                    .render_stage(&recipe, &gpu, time, |_, rest| rest)
+                    .unwrap()
+            );
+        }
     }
 
     #[test]

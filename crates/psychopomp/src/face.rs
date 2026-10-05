@@ -10,6 +10,10 @@ pub enum Face {
     /// Bundled CommitMono.
     #[default]
     Mono,
+    /// Helvetica Neue Regular, for editorial diagrams.
+    Sans,
+    /// Helvetica Neue Bold, for editorial display type.
+    SansBold,
     /// Didot, a high-contrast display serif: titles set quietly and large.
     Serif,
     /// Didot Italic, for whispers.

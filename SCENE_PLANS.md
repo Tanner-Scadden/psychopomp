@@ -1179,10 +1179,11 @@ their fuller documentation elsewhere.
 - `stage` (root): up to 128 `elements` of `kind` `card` (`at`, `size`, `title`, `status`,
   `tone`), `orb` (`at`, `radius`, `points`), `beam` (`from`, `to`, `bend`),
   `packet` (`beam`, `reverse`, `label`), `label` (`at`, `size`, `spans`, and an
-  optional `face`: `mono` (bundled CommitMono, the default), `serif` and
+  optional `face`: `mono` (bundled CommitMono, the default), `sans` and `sans-bold`
+  (Helvetica Neue Regular and Bold), `serif` and
   `serif-italic` (Didot), `light` (Helvetica Neue Light), or `shout`
   (Helvetica Neue Condensed Black), set with `StageElement::label(..).face(Face::Serif)`;
-  the last four are faces macOS installs, and a machine without them shapes the
+  the non-mono faces are installed by macOS, and a machine without them shapes the
   text in whatever face its font database substitutes, so the same plan renders
   in another typeface there), `ring`
   (`at`, `radius`, `thickness`), `bolt` and `shield` (see Effects below), and the
@@ -1244,7 +1245,13 @@ their fuller documentation elsewhere.
   sweep)`, and `disconnect(beam, at, seconds)` (the reverse of `connect`).
   Build elements with `StageElement::card|orb|beam|packet|label|ring` and their
   options (`.tone`, `.statuses`, `.mark`, `.points`, `.bend`, `.reversed`,
-  `.labeled`, `.align`, `.thickness`); `StagePost::RESTRAINED` is the films' look.
+  `.labeled`, `.align`, `.thickness`); `StagePost::RESTRAINED` is the explainer films' look.
+  `StagePost::FLAT` removes bloom, grain, vignette, and backdrop light for editorial
+  graphics. Pair it with `Face::Sans`/`SansBold`, ordinary shapes and SVG paths,
+  and camera pans/zooms. Labels allow 10–320 px type; artwork icons allow 8–2048 px
+  sides (their atlas coverage caps at 2048 px). Thick shape strokes allow up to
+  256 px; connector strokes retain their 24 px maximum. The narrated example is
+  `scenes/shape-of-openness`, with hard cuts, drawn geometry, and image plates.
   Orb `pulse` changes illumination, not geometry or attached beam ports. Card
   `flash` lifts ink and rim, not the entire fill. Connecting does not implicitly
   trigger `land`, `twang`, `surge`, or `flow`; author those only when the story
@@ -1350,6 +1357,9 @@ their fuller documentation elsewhere.
   - `icon`: `size` in world pixels, one of `icon` (a bundled Phosphor name:
     `stage::ICONS`, from `assets/icons`, MIT) or `path` (SVG path data, filled, in a
     `view`-unit square, 256), and `tone` (plain draws in the text color).
+    Optional `ink: [r, g, b]` is an explicit sRGB-byte pigment for artwork: it
+    overrides the theme's tone, while retaining the Stage's normal exposure and
+    highlight rolloff. It is useful for a logo whose color is part of the subject.
     Channels: `opacity` 1, `x`/`y`/`z` 0, `scale` 1, `blur` 0, `flash` 0.
   - `footage`: `size` (world pixels), `clip`, `fit`, and `mask` as for the
     [`footage`](#recipe-payloads-and-channels) overlay, `framed` (a card's mat

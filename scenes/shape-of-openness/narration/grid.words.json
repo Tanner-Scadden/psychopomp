@@ -1,0 +1,154 @@
+{
+ "wordTimings": [
+  {
+   "word": "Eventually,",
+   "start": 0,
+   "end": 0.46
+  },
+  {
+   "word": "the",
+   "start": 0.58,
+   "end": 0.88
+  },
+  {
+   "word": "grid.",
+   "start": 0.88,
+   "end": 1.14
+  },
+  {
+   "word": "Four",
+   "start": 1.4,
+   "end": 1.92
+  },
+  {
+   "word": "modules",
+   "start": 1.92,
+   "end": 2.32
+  },
+  {
+   "word": "across.",
+   "start": 2.32,
+   "end": 2.66
+  },
+  {
+   "word": "Five",
+   "start": 3,
+   "end": 3.5
+  },
+  {
+   "word": "modules",
+   "start": 3.5,
+   "end": 3.88
+  },
+  {
+   "word": "high.",
+   "start": 3.88,
+   "end": 4.24
+  },
+  {
+   "word": "Sixty",
+   "start": 4.66,
+   "end": 5.32
+  },
+  {
+   "word": "units",
+   "start": 5.32,
+   "end": 5.54
+  },
+  {
+   "word": "of",
+   "start": 5.54,
+   "end": 5.74
+  },
+  {
+   "word": "responsibility",
+   "start": 5.74,
+   "end": 6.24
+  },
+  {
+   "word": "on",
+   "start": 6.24,
+   "end": 6.72
+  },
+  {
+   "word": "every",
+   "start": 6.72,
+   "end": 7.04
+  },
+  {
+   "word": "side.",
+   "start": 7.04,
+   "end": 7.44
+  },
+  {
+   "word": "Fourteen",
+   "start": 7.7,
+   "end": 8.28
+  },
+  {
+   "word": "modules",
+   "start": 8.28,
+   "end": 8.58
+  },
+  {
+   "word": "of",
+   "start": 8.58,
+   "end": 8.86
+  },
+  {
+   "word": "perimeter.",
+   "start": 8.86,
+   "end": 9.08
+  },
+  {
+   "word": "Six",
+   "start": 9.48,
+   "end": 9.9
+  },
+  {
+   "word": "within.",
+   "start": 9.9,
+   "end": 10.32
+  },
+  {
+   "word": "Structure",
+   "start": 10.84,
+   "end": 11.5
+  },
+  {
+   "word": "in",
+   "start": 11.5,
+   "end": 12.08
+  },
+  {
+   "word": "service",
+   "start": 12.08,
+   "end": 12.58
+  },
+  {
+   "word": "of",
+   "start": 12.58,
+   "end": 12.8
+  },
+  {
+   "word": "the",
+   "start": 12.8,
+   "end": 12.88
+  },
+  {
+   "word": "space",
+   "start": 12.88,
+   "end": 13.14
+  },
+  {
+   "word": "it",
+   "start": 13.14,
+   "end": 13.42
+  },
+  {
+   "word": "permits.",
+   "start": 13.42,
+   "end": 13.7
+  }
+ ]
+}

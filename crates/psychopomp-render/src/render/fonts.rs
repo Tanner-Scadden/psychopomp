@@ -16,6 +16,8 @@ pub(crate) fn attrs(face: Face) -> Attrs<'static> {
     let attrs = Attrs::new();
     match face {
         Face::Mono => attrs.family(MONO),
+        Face::Sans => attrs.family(SANS),
+        Face::SansBold => attrs.family(SANS).weight(Weight::BOLD),
         Face::Serif => attrs.family(SERIF),
         Face::SerifItalic => attrs.family(SERIF).style(Style::Italic),
         Face::Light => attrs.family(SANS).weight(Weight::LIGHT),

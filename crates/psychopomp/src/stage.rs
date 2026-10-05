@@ -68,6 +68,15 @@ impl Default for StagePost {
 }
 
 impl StagePost {
+    /// Flat editorial graphics: no bloom, grain, vignette, or backdrop light.
+    /// Shapes, SVG paths, footage, and camera motion keep their ordinary channels.
+    pub const FLAT: Self = Self {
+        bloom: 0.0,
+        grain: 0.0,
+        vignette: 0.0,
+        backdrop: 0.0,
+    };
+
     /// The explainer films' look: restrained bloom on a quiet, nearly flat
     /// frame, so only what is alive glows.
     pub const RESTRAINED: Self = Self {
@@ -257,6 +266,9 @@ pub enum StageElement {
         path: String,
         #[serde(default = "default_view", skip_serializing_if = "is_default_view")]
         view: f32,
+        /// An explicit sRGB pigment for artwork; otherwise the theme supplies `tone`.
+        #[serde(default, skip_serializing_if = "Option::is_none")]
+        ink: Option<[u8; 3]>,
         #[serde(default, skip_serializing_if = "Tone::is_default")]
         tone: Tone,
     },
@@ -1499,7 +1511,7 @@ impl StagePlan {
                         (0.0..=400.0).contains(corner) && (0.0..=1.0).contains(fill_opacity),
                         "shape '{id}' corner or fill opacity is out of range"
                     );
-                    stroke_style(id, *width, *dash)?;
+                    stroke_style(id, *width, *dash, 256.0)?;
                     ensure!(
                         arrow.is_none() || matches!(shape, Figure::Arc { .. }),
                         "shape '{id}' is closed; only an arc can carry arrowheads"
@@ -1553,7 +1565,7 @@ impl StagePlan {
                         (0.0..=400.0).contains(corner) && bend.is_finite(),
                         "path '{id}' corner or bend is out of range"
                     );
-                    stroke_style(id, *width, *dash)?;
+                    stroke_style(id, *width, *dash, 24.0)?;
                 }
                 StageElement::Icon {
                     size,
@@ -1563,7 +1575,7 @@ impl StagePlan {
                     ..
                 } => {
                     ensure!(
-                        (8.0..=600.0).contains(size) && *view > 0.0 && view.is_finite(),
+                        (8.0..=2048.0).contains(size) && *view > 0.0 && view.is_finite(),
                         "icon '{id}' size is out of range"
                     );
                     ensure!(
@@ -1593,7 +1605,7 @@ impl StagePlan {
                 }
                 StageElement::Label { size, spans, .. } => {
                     ensure!(
-                        (10.0..=160.0).contains(size),
+                        (10.0..=320.0).contains(size),
                         "label '{id}' size is out of range"
                     );
                     ensure!(
@@ -1660,9 +1672,9 @@ impl StagePlan {
     }
 }
 
-fn stroke_style(id: &str, width: f32, dash: Option<[f32; 2]>) -> Result<()> {
+fn stroke_style(id: &str, width: f32, dash: Option<[f32; 2]>, max_width: f32) -> Result<()> {
     ensure!(
-        (0.25..=24.0).contains(&width)
+        (0.25..=max_width).contains(&width)
             && dash.is_none_or(|[on, off]| (0.5..=400.0).contains(&on) && (0.5..=400.0).contains(&off)),
         "stage element '{id}' stroke width or dash is out of range"
     );
@@ -3458,6 +3470,45 @@ mod tests {
             no_stroke,
             StageElement::Shape { stroke: None, .. }
         ));
+    }
+
+    #[test]
+    fn editorial_art_sizes_keep_bounded_validation_and_explicit_pigment() {
+        let mut data = serde_json::json!({
+            "post": StagePost::FLAT,
+            "elements": [
+                { "kind": "icon", "id": "art", "at": [960, 540, 0], "size": 2048,
+                  "path": "M0 0H300V300H0Z", "view": 300, "ink": [0, 75, 147] },
+                { "kind": "label", "id": "title", "at": [960, 540, 0], "size": 320,
+                  "face": "sans-bold", "spans": [{ "text": "1.25" }] },
+                { "kind": "shape", "id": "ring", "at": [960, 540, 0],
+                  "shape": { "circle": 300 }, "width": 256 }
+            ]
+        });
+        let valid = |data: &serde_json::Value| {
+            serde_json::from_value::<StagePlan>(data.clone())
+                .is_ok_and(|plan| plan.validate().is_ok())
+        };
+        assert!(valid(&data));
+        let roundtrip =
+            serde_json::to_value(serde_json::from_value::<StagePlan>(data.clone()).unwrap())
+                .unwrap();
+        assert_eq!(
+            roundtrip["elements"][0]["ink"],
+            serde_json::json!([0, 75, 147])
+        );
+        for (index, property, invalid) in [(0, "size", 2049), (1, "size", 321), (2, "width", 257)] {
+            let old = data["elements"][index][property].clone();
+            data["elements"][index][property] = invalid.into();
+            assert!(!valid(&data));
+            data["elements"][index][property] = old;
+        }
+        data["elements"][0]["ink"] = serde_json::json!([0, 75, 256]);
+        assert!(!valid(&data), "pigment remains an sRGB byte triplet");
+        assert!(
+            stroke_style("connector", 25.0, None, 24.0).is_err(),
+            "connector bounds do not widen with artwork"
+        );
     }
 
     #[test]

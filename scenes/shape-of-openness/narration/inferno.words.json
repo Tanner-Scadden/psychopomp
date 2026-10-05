@@ -1,0 +1,179 @@
+{
+ "wordTimings": [
+  {
+   "word": "An",
+   "start": 0,
+   "end": 0.14
+  },
+  {
+   "word": "interior",
+   "start": 0.14,
+   "end": 0.52
+  },
+  {
+   "word": "can",
+   "start": 0.52,
+   "end": 0.98
+  },
+  {
+   "word": "contain",
+   "start": 0.98,
+   "end": 1.4
+  },
+  {
+   "word": "a",
+   "start": 1.4,
+   "end": 1.64
+  },
+  {
+   "word": "world.",
+   "start": 1.64,
+   "end": 2.02
+  },
+  {
+   "word": "Dante",
+   "start": 2.6600000000000006,
+   "end": 3.02
+  },
+  {
+   "word": "gave",
+   "start": 3.02,
+   "end": 3.28
+  },
+  {
+   "word": "his",
+   "start": 3.28,
+   "end": 3.54
+  },
+  {
+   "word": "Inferno",
+   "start": 3.54,
+   "end": 4.06
+  },
+  {
+   "word": "nine",
+   "start": 4.06,
+   "end": 4.3
+  },
+  {
+   "word": "circles.",
+   "start": 4.3,
+   "end": 4.9
+  },
+  {
+   "word": "We",
+   "start": 5.4,
+   "end": 5.76
+  },
+  {
+   "word": "descended",
+   "start": 5.76,
+   "end": 6.1
+  },
+  {
+   "word": "through",
+   "start": 6.1,
+   "end": 6.46
+  },
+  {
+   "word": "them,",
+   "start": 6.46,
+   "end": 6.7
+  },
+  {
+   "word": "seeking",
+   "start": 6.8,
+   "end": 7.18
+  },
+  {
+   "word": "a",
+   "start": 7.18,
+   "end": 7.42
+  },
+  {
+   "word": "more",
+   "start": 7.42,
+   "end": 7.56
+  },
+  {
+   "word": "rigorous",
+   "start": 7.56,
+   "end": 7.98
+  },
+  {
+   "word": "account",
+   "start": 7.98,
+   "end": 8.3
+  },
+  {
+   "word": "of",
+   "start": 8.3,
+   "end": 8.6
+  },
+  {
+   "word": "enclosure.",
+   "start": 8.6,
+   "end": 8.84
+  },
+  {
+   "word": "At",
+   "start": 9.620000000000001,
+   "end": 9.98
+  },
+  {
+   "word": "the",
+   "start": 9.98,
+   "end": 10.1
+  },
+  {
+   "word": "center,",
+   "start": 10.1,
+   "end": 10.48
+  },
+  {
+   "word": "we",
+   "start": 10.62,
+   "end": 11.06
+  },
+  {
+   "word": "found",
+   "start": 11.06,
+   "end": 11.36
+  },
+  {
+   "word": "ice.",
+   "start": 11.36,
+   "end": 11.66
+  },
+  {
+   "word": "The",
+   "start": 12.02,
+   "end": 12.56
+  },
+  {
+   "word": "implications",
+   "start": 12.56,
+   "end": 12.92
+  },
+  {
+   "word": "for",
+   "start": 12.92,
+   "end": 13.36
+  },
+  {
+   "word": "onboarding",
+   "start": 13.36,
+   "end": 13.92
+  },
+  {
+   "word": "were",
+   "start": 13.92,
+   "end": 14.02
+  },
+  {
+   "word": "substantial.",
+   "start": 14.02,
+   "end": 14.44
+  }
+ ]
+}

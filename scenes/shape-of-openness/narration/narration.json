@@ -1,0 +1,121 @@
+{
+  "clips": [
+    {
+      "id": "opening",
+      "file": "opening.mp3",
+      "words": "opening.words.json",
+      "durationNanos": 11119000000,
+      "textHash": "0f2a75ad383c6218",
+      "engine": "elevenlabs",
+      "model": "eleven_v4"
+    },
+    {
+      "id": "cave",
+      "file": "cave.mp3",
+      "words": "cave.words.json",
+      "durationNanos": 17359000000,
+      "textHash": "9f23de2af8fe5b2d",
+      "engine": "elevenlabs",
+      "model": "eleven_v4"
+    },
+    {
+      "id": "circle",
+      "file": "circle.mp3",
+      "words": "circle.words.json",
+      "durationNanos": 14639000000,
+      "textHash": "cb3785d26f82f05f",
+      "engine": "elevenlabs",
+      "model": "eleven_v4"
+    },
+    {
+      "id": "vesica",
+      "file": "vesica.mp3",
+      "words": "vesica.words.json",
+      "durationNanos": 14159000000,
+      "textHash": "d8c7174b0da2eca2",
+      "engine": "elevenlabs",
+      "model": "eleven_v4"
+    },
+    {
+      "id": "ratio",
+      "file": "ratio.mp3",
+      "words": "ratio.words.json",
+      "durationNanos": 11999000000,
+      "textHash": "dfd81505b046d603",
+      "engine": "elevenlabs",
+      "model": "eleven_v4"
+    },
+    {
+      "id": "gesture",
+      "file": "gesture.mp3",
+      "words": "gesture.words.json",
+      "durationNanos": 13759000000,
+      "textHash": "d8c2e335d33bf2b5",
+      "engine": "elevenlabs",
+      "model": "eleven_v4"
+    },
+    {
+      "id": "inferno",
+      "file": "inferno.mp3",
+      "words": "inferno.words.json",
+      "durationNanos": 15039000000,
+      "textHash": "09d9bd5d9071f1eb",
+      "engine": "elevenlabs",
+      "model": "eleven_v4"
+    },
+    {
+      "id": "grid",
+      "file": "grid.mp3",
+      "words": "grid.words.json",
+      "durationNanos": 14239000000,
+      "textHash": "a0d3dd5658911be8",
+      "engine": "elevenlabs",
+      "model": "eleven_v4"
+    },
+    {
+      "id": "counter",
+      "file": "counter.mp3",
+      "words": "counter.words.json",
+      "durationNanos": 13279000000,
+      "textHash": "deb258cbe3b805ca",
+      "engine": "elevenlabs",
+      "model": "eleven_v4"
+    },
+    {
+      "id": "optics",
+      "file": "optics.mp3",
+      "words": "optics.words.json",
+      "durationNanos": 14559000000,
+      "textHash": "e4abd1b7d381acb6",
+      "engine": "elevenlabs",
+      "model": "eleven_v4"
+    },
+    {
+      "id": "pepsi",
+      "file": "pepsi.mp3",
+      "words": "pepsi.words.json",
+      "durationNanos": 13759000000,
+      "textHash": "ef645c83d5cfb16d",
+      "engine": "elevenlabs",
+      "model": "eleven_v4"
+    },
+    {
+      "id": "alternatives",
+      "file": "alternatives.mp3",
+      "words": "alternatives.words.json",
+      "durationNanos": 12719000000,
+      "textHash": "2fee07fffe3b2054",
+      "engine": "elevenlabs",
+      "model": "eleven_v4"
+    },
+    {
+      "id": "finale",
+      "file": "finale.mp3",
+      "words": "finale.words.json",
+      "durationNanos": 14959000000,
+      "textHash": "abd08b9b2c3fafcb",
+      "engine": "elevenlabs",
+      "model": "eleven_v4"
+    }
+  ]
+}
