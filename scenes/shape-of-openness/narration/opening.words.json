@@ -3,137 +3,172 @@
   {
    "word": "An",
    "start": 0,
-   "end": 0.14
+   "end": 0.16
   },
   {
-   "word": "opening",
-   "start": 0.14,
-   "end": 0.54
+   "word": "opening,",
+   "start": 0.16,
+   "end": 0.58
   },
   {
-   "word": "requires",
-   "start": 0.54,
-   "end": 0.98
+   "word": "it",
+   "start": 0.76,
+   "end": 0.94
   },
   {
-   "word": "a",
-   "start": 0.98,
-   "end": 1.36
+   "word": "turns",
+   "start": 0.94,
+   "end": 1.26
   },
   {
-   "word": "boundary.",
-   "start": 1.36,
-   "end": 1.76
-  },
-  {
-   "word": "Before",
-   "start": 2.4799999999999995,
-   "end": 2.8
-  },
-  {
-   "word": "we",
-   "start": 2.8,
-   "end": 3.04
-  },
-  {
-   "word": "could",
-   "start": 3.04,
-   "end": 3.16
-  },
-  {
-   "word": "draw",
-   "start": 3.16,
-   "end": 3.4
-  },
-  {
-   "word": "the",
-   "start": 3.4,
-   "end": 3.56
-  },
-  {
-   "word": "letter,",
-   "start": 3.56,
-   "end": 3.84
-  },
-  {
-   "word": "we",
-   "start": 3.98,
-   "end": 4.38
-  },
-  {
-   "word": "had",
-   "start": 4.38,
-   "end": 4.54
-  },
-  {
-   "word": "to",
-   "start": 4.54,
-   "end": 4.72
-  },
-  {
-   "word": "reconsider",
-   "start": 4.72,
-   "end": 5.02
-  },
-  {
-   "word": "the",
-   "start": 5.02,
-   "end": 5.5
-  },
-  {
-   "word": "relationship",
-   "start": 5.5,
-   "end": 5.88
-  },
-  {
-   "word": "between",
-   "start": 5.88,
-   "end": 6.38
-  },
-  {
-   "word": "presence",
-   "start": 6.38,
-   "end": 6.86
-  },
-  {
-   "word": "and",
-   "start": 6.86,
-   "end": 7.5
-  },
-  {
-   "word": "absence.",
-   "start": 7.5,
-   "end": 8
-  },
-  {
-   "word": "This",
-   "start": 8.54,
-   "end": 9.18
+   "word": "out,",
+   "start": 1.26,
+   "end": 1.62
   },
   {
    "word": "is",
-   "start": 9.18,
-   "end": 9.48
+   "start": 1.66,
+   "end": 2
   },
   {
-   "word": "the",
-   "start": 9.48,
-   "end": 9.64
+   "word": "made",
+   "start": 2,
+   "end": 2.24
   },
   {
-   "word": "shape",
-   "start": 9.64,
-   "end": 9.96
+   "word": "almost",
+   "start": 2.24,
+   "end": 2.54
+  },
+  {
+   "word": "entirely",
+   "start": 2.54,
+   "end": 3.12
   },
   {
    "word": "of",
-   "start": 9.96,
-   "end": 10.14
+   "start": 3.12,
+   "end": 3.58
+  },
+  {
+   "word": "whatever",
+   "start": 3.58,
+   "end": 3.78
+  },
+  {
+   "word": "surrounds",
+   "start": 3.78,
+   "end": 4.2
+  },
+  {
+   "word": "it.",
+   "start": 4.2,
+   "end": 4.52
+  },
+  {
+   "word": "We",
+   "start": 4.66,
+   "end": 5.26
+  },
+  {
+   "word": "have",
+   "start": 5.26,
+   "end": 5.38
+  },
+  {
+   "word": "spent",
+   "start": 5.38,
+   "end": 5.7
+  },
+  {
+   "word": "the",
+   "start": 5.7,
+   "end": 5.82
+  },
+  {
+   "word": "past",
+   "start": 5.82,
+   "end": 6.02
+  },
+  {
+   "word": "18",
+   "start": 6.02,
+   "end": 6.38
+  },
+  {
+   "word": "months",
+   "start": 6.38,
+   "end": 6.78
+  },
+  {
+   "word": "surrounding",
+   "start": 6.78,
+   "end": 7.32
+  },
+  {
+   "word": "one,",
+   "start": 7.32,
+   "end": 7.62
+  },
+  {
+   "word": "very",
+   "start": 7.72,
+   "end": 8.24
+  },
+  {
+   "word": "carefully",
+   "start": 8.24,
+   "end": 8.7
+  },
+  {
+   "word": "and",
+   "start": 8.7,
+   "end": 9.22
+  },
+  {
+   "word": "at",
+   "start": 9.22,
+   "end": 9.46
+  },
+  {
+   "word": "considerable",
+   "start": 9.46,
+   "end": 9.94
+  },
+  {
+   "word": "expense.",
+   "start": 9.94,
+   "end": 10.44
+  },
+  {
+   "word": "This",
+   "start": 11.02,
+   "end": 11.66
+  },
+  {
+   "word": "is",
+   "start": 11.66,
+   "end": 12.16
+  },
+  {
+   "word": "the",
+   "start": 12.16,
+   "end": 12.3
+  },
+  {
+   "word": "shape",
+   "start": 12.3,
+   "end": 12.6
+  },
+  {
+   "word": "of",
+   "start": 12.6,
+   "end": 12.78
   },
   {
    "word": "openness.",
-   "start": 10.14,
-   "end": 10.46
+   "start": 12.78,
+   "end": 13.08
   }
  ]
 }

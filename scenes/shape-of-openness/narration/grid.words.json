@@ -1,154 +1,254 @@
 {
  "wordTimings": [
   {
-   "word": "Eventually,",
+   "word": "Beneath",
    "start": 0,
-   "end": 0.46
+   "end": 0.44
   },
   {
-   "word": "the",
-   "start": 0.58,
-   "end": 0.88
+   "word": "everything",
+   "start": 0.44,
+   "end": 0.8
   },
   {
-   "word": "grid.",
-   "start": 0.88,
-   "end": 1.14
+   "word": "lies",
+   "start": 0.8,
+   "end": 1.26
   },
   {
-   "word": "Four",
-   "start": 1.4,
-   "end": 1.92
+   "word": "a",
+   "start": 1.26,
+   "end": 1.44
   },
   {
-   "word": "modules",
-   "start": 1.92,
-   "end": 2.32
+   "word": "grid,",
+   "start": 1.44,
+   "end": 1.68
   },
   {
-   "word": "across.",
-   "start": 2.32,
-   "end": 2.66
-  },
-  {
-   "word": "Five",
-   "start": 3,
-   "end": 3.5
+   "word": "four",
+   "start": 1.9,
+   "end": 2.28
   },
   {
    "word": "modules",
-   "start": 3.5,
-   "end": 3.88
+   "start": 2.28,
+   "end": 2.72
   },
   {
-   "word": "high.",
-   "start": 3.88,
-   "end": 4.24
+   "word": "wide",
+   "start": 2.72,
+   "end": 3.08
   },
   {
-   "word": "Sixty",
-   "start": 4.66,
-   "end": 5.32
+   "word": "and",
+   "start": 3.08,
+   "end": 3.4
+  },
+  {
+   "word": "five",
+   "start": 3.4,
+   "end": 3.6
+  },
+  {
+   "word": "high,",
+   "start": 3.6,
+   "end": 4.02
+  },
+  {
+   "word": "each",
+   "start": 4.2,
+   "end": 4.56
+  },
+  {
+   "word": "module",
+   "start": 4.56,
+   "end": 4.96
+  },
+  {
+   "word": "60",
+   "start": 4.96,
+   "end": 5.34
   },
   {
    "word": "units",
-   "start": 5.32,
-   "end": 5.54
+   "start": 5.34,
+   "end": 5.82
   },
   {
-   "word": "of",
-   "start": 5.54,
-   "end": 5.74
-  },
-  {
-   "word": "responsibility",
-   "start": 5.74,
-   "end": 6.24
-  },
-  {
-   "word": "on",
-   "start": 6.24,
-   "end": 6.72
-  },
-  {
-   "word": "every",
-   "start": 6.72,
-   "end": 7.04
-  },
-  {
-   "word": "side.",
-   "start": 7.04,
-   "end": 7.44
+   "word": "square.",
+   "start": 5.82,
+   "end": 6.18
   },
   {
    "word": "Fourteen",
-   "start": 7.7,
-   "end": 8.28
-  },
-  {
-   "word": "modules",
-   "start": 8.28,
-   "end": 8.58
+   "start": 6.62,
+   "end": 7.22
   },
   {
    "word": "of",
-   "start": 8.58,
-   "end": 8.86
-  },
-  {
-   "word": "perimeter.",
-   "start": 8.86,
-   "end": 9.08
-  },
-  {
-   "word": "Six",
-   "start": 9.48,
-   "end": 9.9
-  },
-  {
-   "word": "within.",
-   "start": 9.9,
-   "end": 10.32
-  },
-  {
-   "word": "Structure",
-   "start": 10.84,
-   "end": 11.5
-  },
-  {
-   "word": "in",
-   "start": 11.5,
-   "end": 12.08
-  },
-  {
-   "word": "service",
-   "start": 12.08,
-   "end": 12.58
-  },
-  {
-   "word": "of",
-   "start": 12.58,
-   "end": 12.8
+   "start": 7.22,
+   "end": 7.42
   },
   {
    "word": "the",
+   "start": 7.42,
+   "end": 7.48
+  },
+  {
+   "word": "twenty",
+   "start": 7.48,
+   "end": 7.76
+  },
+  {
+   "word": "become",
+   "start": 7.76,
+   "end": 8.14
+  },
+  {
+   "word": "wall.",
+   "start": 8.14,
+   "end": 8.5
+  },
+  {
+   "word": "The",
+   "start": 8.74,
+   "end": 9.14
+  },
+  {
+   "word": "remaining",
+   "start": 9.14,
+   "end": 9.36
+  },
+  {
+   "word": "six",
+   "start": 9.36,
+   "end": 9.74
+  },
+  {
+   "word": "stay",
+   "start": 9.74,
+   "end": 10.04
+  },
+  {
+   "word": "inside,",
+   "start": 10.04,
+   "end": 10.44
+  },
+  {
+   "word": "where",
+   "start": 10.72,
+   "end": 10.88
+  },
+  {
+   "word": "they",
+   "start": 10.88,
+   "end": 11
+  },
+  {
+   "word": "do",
+   "start": 11,
+   "end": 11.16
+  },
+  {
+   "word": "the",
+   "start": 11.16,
+   "end": 11.28
+  },
+  {
+   "word": "vital",
+   "start": 11.28,
+   "end": 11.56
+  },
+  {
+   "word": "work",
+   "start": 11.56,
+   "end": 11.92
+  },
+  {
+   "word": "of",
+   "start": 11.92,
+   "end": 12.16
+  },
+  {
+   "word": "not",
+   "start": 12.16,
+   "end": 12.46
+  },
+  {
+   "word": "being",
+   "start": 12.46,
+   "end": 12.8
+  },
+  {
+   "word": "wall.",
    "start": 12.8,
-   "end": 12.88
+   "end": 13.12
   },
   {
-   "word": "space",
-   "start": 12.88,
-   "end": 13.14
+   "word": "It",
+   "start": 13.36,
+   "end": 13.82
   },
   {
-   "word": "it",
-   "start": 13.14,
-   "end": 13.42
+   "word": "is",
+   "start": 13.82,
+   "end": 13.92
   },
   {
-   "word": "permits.",
-   "start": 13.42,
-   "end": 13.7
+   "word": "the",
+   "start": 13.92,
+   "end": 14.04
+  },
+  {
+   "word": "most",
+   "start": 14.04,
+   "end": 14.22
+  },
+  {
+   "word": "carefully",
+   "start": 14.22,
+   "end": 14.7
+  },
+  {
+   "word": "arranged",
+   "start": 14.7,
+   "end": 15.04
+  },
+  {
+   "word": "nothing",
+   "start": 15.04,
+   "end": 15.56
+  },
+  {
+   "word": "we",
+   "start": 15.56,
+   "end": 15.88
+  },
+  {
+   "word": "have",
+   "start": 15.88,
+   "end": 16.02
+  },
+  {
+   "word": "ever",
+   "start": 16.02,
+   "end": 16.36
+  },
+  {
+   "word": "been",
+   "start": 16.36,
+   "end": 16.6
+  },
+  {
+   "word": "paid",
+   "start": 16.6,
+   "end": 16.88
+  },
+  {
+   "word": "for.",
+   "start": 16.88,
+   "end": 17.14
   }
  ]
 }

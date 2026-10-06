@@ -1,149 +1,269 @@
 {
  "wordTimings": [
   {
-   "word": "The",
+   "word": "Typographers",
    "start": 0,
-   "end": 0.14
+   "end": 0.54
   },
   {
-   "word": "counter",
-   "start": 0.14,
-   "end": 0.44
+   "word": "call",
+   "start": 0.54,
+   "end": 0.86
   },
   {
-   "word": "is",
-   "start": 0.44,
-   "end": 0.72
+   "word": "the",
+   "start": 0.86,
+   "end": 1.08
   },
   {
-   "word": "not",
-   "start": 0.72,
-   "end": 1.02
+   "word": "space",
+   "start": 1.08,
+   "end": 1.32
   },
   {
-   "word": "empty.",
-   "start": 1.02,
-   "end": 1.46
-  },
-  {
-   "word": "A",
-   "start": 1.68,
-   "end": 2.18
-  },
-  {
-   "word": "secondary",
-   "start": 2.18,
-   "end": 2.54
-  },
-  {
-   "word": "plane",
-   "start": 2.54,
-   "end": 2.82
-  },
-  {
-   "word": "occupies",
-   "start": 2.82,
-   "end": 3.56
-  },
-  {
-   "word": "its",
-   "start": 3.56,
-   "end": 3.66
-  },
-  {
-   "word": "lower",
-   "start": 3.66,
-   "end": 3.92
-  },
-  {
-   "word": "two",
-   "start": 3.92,
-   "end": 4.18
-  },
-  {
-   "word": "-thirds.",
-   "start": 4.18,
-   "end": 4.6
-  },
-  {
-   "word": "70",
-   "start": 4.82,
-   "end": 5.46
-  },
-  {
-   "word": "%",
-   "start": 5.46,
-   "end": 5.82
-  },
-  {
-   "word": "perimeter.",
-   "start": 5.82,
-   "end": 6.2
-  },
-  {
-   "word": "20",
-   "start": 6.6,
-   "end": 7.08
-  },
-  {
-   "word": "%",
-   "start": 7.08,
-   "end": 7.48
-  },
-  {
-   "word": "secondary",
-   "start": 7.48,
-   "end": 8.02
-  },
-  {
-   "word": "ink.",
-   "start": 8.02,
-   "end": 8.28
-  },
-  {
-   "word": "10",
-   "start": 8.5,
-   "end": 9.06
-  },
-  {
-   "word": "%",
-   "start": 9.06,
-   "end": 9.28
-  },
-  {
-   "word": "transparency.",
-   "start": 9.28,
-   "end": 9.96
-  },
-  {
-   "word": "Even",
-   "start": 10.4,
-   "end": 11
-  },
-  {
-   "word": "our",
-   "start": 11,
-   "end": 11.2
-  },
-  {
-   "word": "nothing",
-   "start": 11.2,
-   "end": 11.54
-  },
-  {
-   "word": "has",
-   "start": 11.54,
-   "end": 12.02
+   "word": "inside",
+   "start": 1.32,
+   "end": 1.74
   },
   {
    "word": "a",
-   "start": 12.02,
-   "end": 12.18
+   "start": 1.74,
+   "end": 2
   },
   {
-   "word": "specification.",
-   "start": 12.18,
-   "end": 12.58
+   "word": "letter",
+   "start": 2,
+   "end": 2.24
+  },
+  {
+   "word": "its",
+   "start": 2.24,
+   "end": 2.64
+  },
+  {
+   "word": "counter.",
+   "start": 2.64,
+   "end": 3.04
+  },
+  {
+   "word": "Ours",
+   "start": 3.62,
+   "end": 4.26
+  },
+  {
+   "word": "has",
+   "start": 4.26,
+   "end": 4.38
+  },
+  {
+   "word": "a",
+   "start": 4.38,
+   "end": 4.52
+  },
+  {
+   "word": "floor,",
+   "start": 4.52,
+   "end": 4.84
+  },
+  {
+   "word": "a",
+   "start": 5.04,
+   "end": 5.48
+  },
+  {
+   "word": "quieter",
+   "start": 5.48,
+   "end": 5.92
+  },
+  {
+   "word": "grey",
+   "start": 5.92,
+   "end": 6.18
+  },
+  {
+   "word": "plane",
+   "start": 6.18,
+   "end": 6.52
+  },
+  {
+   "word": "across",
+   "start": 6.52,
+   "end": 6.84
+  },
+  {
+   "word": "the",
+   "start": 6.84,
+   "end": 7.1
+  },
+  {
+   "word": "lower",
+   "start": 7.1,
+   "end": 7.32
+  },
+  {
+   "word": "two",
+   "start": 7.32,
+   "end": 7.56
+  },
+  {
+   "word": "-thirds,",
+   "start": 7.56,
+   "end": 7.96
+  },
+  {
+   "word": "so",
+   "start": 8.08,
+   "end": 8.42
+  },
+  {
+   "word": "that",
+   "start": 8.42,
+   "end": 8.56
+  },
+  {
+   "word": "nobody",
+   "start": 8.56,
+   "end": 8.94
+  },
+  {
+   "word": "falls",
+   "start": 8.94,
+   "end": 9.28
+  },
+  {
+   "word": "through.",
+   "start": 9.28,
+   "end": 9.66
+  },
+  {
+   "word": "By",
+   "start": 10.36,
+   "end": 10.68
+  },
+  {
+   "word": "area,",
+   "start": 10.68,
+   "end": 11.16
+  },
+  {
+   "word": "the",
+   "start": 11.34,
+   "end": 11.54
+  },
+  {
+   "word": "mark",
+   "start": 11.54,
+   "end": 11.78
+  },
+  {
+   "word": "is",
+   "start": 11.78,
+   "end": 11.98
+  },
+  {
+   "word": "70",
+   "start": 11.98,
+   "end": 12.3
+  },
+  {
+   "word": "%",
+   "start": 12.3,
+   "end": 12.6
+  },
+  {
+   "word": "wall,",
+   "start": 12.6,
+   "end": 13
+  },
+  {
+   "word": "20",
+   "start": 13.24,
+   "end": 13.64
+  },
+  {
+   "word": "%",
+   "start": 13.64,
+   "end": 14
+  },
+  {
+   "word": "floor,",
+   "start": 14,
+   "end": 14.4
+  },
+  {
+   "word": "and",
+   "start": 14.56,
+   "end": 15
+  },
+  {
+   "word": "10",
+   "start": 15,
+   "end": 15.2
+  },
+  {
+   "word": "%",
+   "start": 15.2,
+   "end": 15.54
+  },
+  {
+   "word": "clear",
+   "start": 15.54,
+   "end": 15.96
+  },
+  {
+   "word": "air,",
+   "start": 15.96,
+   "end": 16.28
+  },
+  {
+   "word": "which",
+   "start": 16.42,
+   "end": 16.98
+  },
+  {
+   "word": "now",
+   "start": 16.98,
+   "end": 17.26
+  },
+  {
+   "word": "has",
+   "start": 17.26,
+   "end": 17.52
+  },
+  {
+   "word": "its",
+   "start": 17.52,
+   "end": 17.72
+  },
+  {
+   "word": "own",
+   "start": 17.72,
+   "end": 17.94
+  },
+  {
+   "word": "chapter",
+   "start": 17.94,
+   "end": 18.3
+  },
+  {
+   "word": "in",
+   "start": 18.3,
+   "end": 18.62
+  },
+  {
+   "word": "the",
+   "start": 18.62,
+   "end": 18.68
+  },
+  {
+   "word": "brand",
+   "start": 18.68,
+   "end": 18.88
+  },
+  {
+   "word": "guidelines.",
+   "start": 18.88,
+   "end": 19.32
   }
  ]
 }

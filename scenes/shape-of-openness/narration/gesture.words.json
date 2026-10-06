@@ -1,179 +1,259 @@
 {
  "wordTimings": [
   {
-   "word": "Vasari",
+   "word": "According",
    "start": 0,
-   "end": 0.52
+   "end": 0.26
   },
   {
-   "word": "tells",
-   "start": 0.52,
-   "end": 0.74
+   "word": "to",
+   "start": 0.26,
+   "end": 0.5
   },
   {
-   "word": "of",
-   "start": 0.74,
-   "end": 1.06
+   "word": "Vasari,",
+   "start": 0.5,
+   "end": 1.02
   },
   {
-   "word": "Giotto",
-   "start": 1.06,
-   "end": 1.52
+   "word": "when",
+   "start": 1.16,
+   "end": 1.56
   },
   {
-   "word": "answering",
-   "start": 1.52,
-   "end": 1.94
+   "word": "the",
+   "start": 1.56,
+   "end": 1.66
   },
   {
-   "word": "a",
-   "start": 1.94,
-   "end": 2.22
+   "word": "Pope",
+   "start": 1.66,
+   "end": 1.9
   },
   {
-   "word": "request",
-   "start": 2.22,
-   "end": 2.52
+   "word": "sent",
+   "start": 1.9,
+   "end": 2.1
   },
   {
    "word": "for",
-   "start": 2.52,
-   "end": 2.78
+   "start": 2.1,
+   "end": 2.32
   },
   {
-   "word": "evidence",
-   "start": 2.78,
-   "end": 3.12
+   "word": "proof",
+   "start": 2.32,
+   "end": 2.66
   },
   {
    "word": "of",
-   "start": 3.12,
-   "end": 3.42
+   "start": 2.66,
+   "end": 2.9
   },
   {
-   "word": "his",
-   "start": 3.42,
-   "end": 3.56
+   "word": "Giotto's",
+   "start": 2.9,
+   "end": 3.34
   },
   {
-   "word": "skill",
-   "start": 3.56,
-   "end": 3.86
+   "word": "talent,",
+   "start": 3.34,
+   "end": 3.62
   },
   {
-   "word": "with",
+   "word": "Giotto",
    "start": 3.86,
-   "end": 4.1
+   "end": 4.54
+  },
+  {
+   "word": "dipped",
+   "start": 4.54,
+   "end": 4.8
   },
   {
    "word": "a",
-   "start": 4.1,
-   "end": 4.18
+   "start": 4.8,
+   "end": 4.98
   },
   {
-   "word": "circle",
-   "start": 4.18,
-   "end": 4.6
-  },
-  {
-   "word": "drawn",
-   "start": 4.6,
-   "end": 5.06
-  },
-  {
-   "word": "by",
-   "start": 5.06,
-   "end": 5.3
-  },
-  {
-   "word": "hand.",
-   "start": 5.3,
-   "end": 5.7
-  },
-  {
-   "word": "A",
-   "start": 5.96,
-   "end": 6.52
-  },
-  {
-   "word": "complete",
-   "start": 6.52,
-   "end": 6.86
-  },
-  {
-   "word": "proposition",
-   "start": 6.86,
-   "end": 7.38
+   "word": "brush",
+   "start": 4.98,
+   "end": 5.14
   },
   {
    "word": "in",
-   "start": 7.38,
-   "end": 7.86
+   "start": 5.14,
+   "end": 5.34
+  },
+  {
+   "word": "red,",
+   "start": 5.34,
+   "end": 5.58
+  },
+  {
+   "word": "drew",
+   "start": 5.78,
+   "end": 6.1
   },
   {
    "word": "a",
-   "start": 7.86,
-   "end": 7.94
+   "start": 6.1,
+   "end": 6.26
   },
   {
-   "word": "single",
-   "start": 7.94,
-   "end": 8.28
+   "word": "perfect",
+   "start": 6.26,
+   "end": 6.66
   },
   {
-   "word": "gesture.",
-   "start": 8.28,
-   "end": 8.76
+   "word": "circle",
+   "start": 6.66,
+   "end": 7.02
   },
   {
-   "word": "We",
-   "start": 9.4,
-   "end": 9.74
+   "word": "freehand,",
+   "start": 7.02,
+   "end": 7.56
   },
   {
-   "word": "answered",
-   "start": 9.74,
-   "end": 10.1
+   "word": "and",
+   "start": 7.78,
+   "end": 8.02
   },
   {
-   "word": "with",
-   "start": 10.1,
-   "end": 10.32
+   "word": "sent",
+   "start": 8.02,
+   "end": 8.2
+  },
+  {
+   "word": "nothing",
+   "start": 8.2,
+   "end": 8.52
+  },
+  {
+   "word": "else.",
+   "start": 8.52,
+   "end": 8.92
+  },
+  {
+   "word": "When",
+   "start": 9.36,
+   "end": 9.84
+  },
+  {
+   "word": "we",
+   "start": 9.84,
+   "end": 10
+  },
+  {
+   "word": "were",
+   "start": 10,
+   "end": 10.14
+  },
+  {
+   "word": "asked",
+   "start": 10.14,
+   "end": 10.38
+  },
+  {
+   "word": "for",
+   "start": 10.38,
+   "end": 10.54
+  },
+  {
+   "word": "something",
+   "start": 10.54,
+   "end": 10.76
+  },
+  {
+   "word": "similar,",
+   "start": 10.76,
+   "end": 11.24
+  },
+  {
+   "word": "we",
+   "start": 11.44,
+   "end": 11.78
+  },
+  {
+   "word": "sent",
+   "start": 11.78,
+   "end": 11.98
   },
   {
    "word": "four",
-   "start": 10.32,
-   "end": 10.62
+   "start": 11.98,
+   "end": 12.24
   },
   {
    "word": "right",
-   "start": 10.62,
-   "end": 10.96
-  },
-  {
-   "word": "angles.",
-   "start": 10.96,
-   "end": 11.38
-  },
-  {
-   "word": "The",
-   "start": 11.64,
-   "end": 12.14
-  },
-  {
-   "word": "restraint",
-   "start": 12.14,
+   "start": 12.24,
    "end": 12.54
   },
   {
-   "word": "is",
+   "word": "angles",
    "start": 12.54,
-   "end": 12.82
+   "end": 12.92
   },
   {
-   "word": "considerable.",
-   "start": 12.82,
+   "word": "and",
+   "start": 12.92,
    "end": 13.18
+  },
+  {
+   "word": "a",
+   "start": 13.18,
+   "end": 13.28
+  },
+  {
+   "word": "112",
+   "start": 13.28,
+   "end": 13.64
+  },
+  {
+   "word": "-page",
+   "start": 13.64,
+   "end": 14.3
+  },
+  {
+   "word": "rationale.",
+   "start": 14.3,
+   "end": 14.7
+  },
+  {
+   "word": "We",
+   "start": 15.3,
+   "end": 15.78
+  },
+  {
+   "word": "are",
+   "start": 15.78,
+   "end": 15.88
+  },
+  {
+   "word": "still",
+   "start": 15.88,
+   "end": 16.1
+  },
+  {
+   "word": "waiting",
+   "start": 16.1,
+   "end": 16.4
+  },
+  {
+   "word": "to",
+   "start": 16.4,
+   "end": 16.62
+  },
+  {
+   "word": "hear",
+   "start": 16.62,
+   "end": 16.78
+  },
+  {
+   "word": "back.",
+   "start": 16.78,
+   "end": 16.94
   }
  ]
 }

@@ -1,159 +1,264 @@
 {
  "wordTimings": [
   {
-   "word": "Equality",
+   "word": "Shapes",
    "start": 0,
-   "end": 0.44
+   "end": 0.56
   },
   {
-   "word": "is",
-   "start": 0.44,
-   "end": 0.86
+   "word": "that",
+   "start": 0.56,
+   "end": 0.66
   },
   {
-   "word": "not",
-   "start": 0.86,
-   "end": 1.16
-  },
-  {
-   "word": "equilibrium.",
-   "start": 1.16,
-   "end": 1.74
-  },
-  {
-   "word": "We",
-   "start": 2.37,
-   "end": 2.72
-  },
-  {
-   "word": "examined",
-   "start": 2.72,
-   "end": 3.14
-  },
-  {
-   "word": "weight,",
-   "start": 3.14,
-   "end": 3.48
-  },
-  {
-   "word": "optical",
-   "start": 3.7,
-   "end": 4.38
-  },
-  {
-   "word": "alignment,",
-   "start": 4.38,
-   "end": 4.92
+   "word": "measure",
+   "start": 0.66,
+   "end": 1.02
   },
   {
    "word": "the",
-   "start": 5.24,
-   "end": 5.7
+   "start": 1.02,
+   "end": 1.16
   },
   {
-   "word": "interval",
-   "start": 5.7,
-   "end": 6.1
+   "word": "same",
+   "start": 1.16,
+   "end": 1.48
   },
   {
-   "word": "between",
-   "start": 6.1,
-   "end": 6.46
+   "word": "rarely",
+   "start": 1.48,
+   "end": 1.86
   },
   {
-   "word": "letters.",
-   "start": 6.46,
-   "end": 6.9
+   "word": "look",
+   "start": 1.86,
+   "end": 2.32
   },
   {
-   "word": "A",
-   "start": 7.369999999999999,
-   "end": 7.72
+   "word": "the",
+   "start": 2.32,
+   "end": 2.52
   },
   {
-   "word": "space",
-   "start": 7.72,
-   "end": 7.98
+   "word": "same,",
+   "start": 2.52,
+   "end": 2.84
+  },
+  {
+   "word": "so",
+   "start": 2.98,
+   "end": 3.36
+  },
+  {
+   "word": "the",
+   "start": 3.36,
+   "end": 3.5
+  },
+  {
+   "word": "walls",
+   "start": 3.5,
+   "end": 3.8
+  },
+  {
+   "word": "were",
+   "start": 3.8,
+   "end": 3.98
+  },
+  {
+   "word": "thickened",
+   "start": 3.98,
+   "end": 4.56
+  },
+  {
+   "word": "until",
+   "start": 4.56,
+   "end": 4.72
+  },
+  {
+   "word": "they",
+   "start": 4.72,
+   "end": 4.9
+  },
+  {
+   "word": "looked",
+   "start": 4.9,
+   "end": 5.14
+  },
+  {
+   "word": "right,",
+   "start": 5.14,
+   "end": 5.46
+  },
+  {
+   "word": "and",
+   "start": 5.6,
+   "end": 6.04
+  },
+  {
+   "word": "then",
+   "start": 6.04,
+   "end": 6.2
+  },
+  {
+   "word": "thinned",
+   "start": 6.2,
+   "end": 6.74
+  },
+  {
+   "word": "until",
+   "start": 6.74,
+   "end": 7
+  },
+  {
+   "word": "they",
+   "start": 7,
+   "end": 7.24
+  },
+  {
+   "word": "looked",
+   "start": 7.24,
+   "end": 7.46
+  },
+  {
+   "word": "deliberate.",
+   "start": 7.46,
+   "end": 7.96
+  },
+  {
+   "word": "The",
+   "start": 8.36,
+   "end": 8.86
+  },
+  {
+   "word": "wordmark",
+   "start": 8.86,
+   "end": 9.34
+  },
+  {
+   "word": "received",
+   "start": 9.34,
+   "end": 9.74
+  },
+  {
+   "word": "similar",
+   "start": 9.74,
+   "end": 10.16
+  },
+  {
+   "word": "care.",
+   "start": 10.16,
+   "end": 10.5
+  },
+  {
+   "word": "Spaced",
+   "start": 10.94,
+   "end": 11.54
   },
   {
    "word": "too",
-   "start": 7.98,
-   "end": 8.24
+   "start": 11.54,
+   "end": 11.68
   },
   {
-   "word": "generous",
-   "start": 8.24,
-   "end": 8.72
+   "word": "generously,",
+   "start": 11.68,
+   "end": 12.26
   },
   {
-   "word": "becomes",
-   "start": 8.72,
-   "end": 9.1
+   "word": "its",
+   "start": 12.56,
+   "end": 12.8
   },
   {
-   "word": "a",
-   "start": 9.1,
-   "end": 9.3
+   "word": "letters",
+   "start": 12.8,
+   "end": 13.12
   },
   {
-   "word": "departure.",
-   "start": 9.3,
-   "end": 9.6
+   "word": "seemed",
+   "start": 13.12,
+   "end": 13.36
   },
   {
-   "word": "A",
-   "start": 9.94,
-   "end": 10.44
+   "word": "to",
+   "start": 13.36,
+   "end": 13.52
   },
   {
-   "word": "space",
-   "start": 10.44,
-   "end": 10.66
+   "word": "be",
+   "start": 13.52,
+   "end": 13.64
   },
   {
-   "word": "too",
-   "start": 10.66,
-   "end": 10.88
+   "word": "leaving",
+   "start": 13.64,
+   "end": 13.92
   },
   {
-   "word": "narrow",
-   "start": 10.88,
-   "end": 11.22
+   "word": "one",
+   "start": 13.92,
+   "end": 14.14
   },
   {
-   "word": "becomes",
-   "start": 11.22,
-   "end": 11.7
+   "word": "another.",
+   "start": 14.14,
+   "end": 14.44
   },
   {
-   "word": "a",
-   "start": 11.7,
-   "end": 11.9
+   "word": "Too",
+   "start": 14.66,
+   "end": 15.14
+  },
+  {
+   "word": "tightly,",
+   "start": 15.14,
+   "end": 15.56
+  },
+  {
+   "word": "and",
+   "start": 15.72,
+   "end": 16.16
+  },
+  {
+   "word": "someone",
+   "start": 16.16,
+   "end": 16.4
+  },
+  {
+   "word": "from",
+   "start": 16.4,
+   "end": 16.64
+  },
+  {
+   "word": "legal",
+   "start": 16.64,
+   "end": 17
+  },
+  {
+   "word": "starts",
+   "start": 17,
+   "end": 17.26
+  },
+  {
+   "word": "using",
+   "start": 17.26,
+   "end": 17.64
+  },
+  {
+   "word": "the",
+   "start": 17.64,
+   "end": 17.86
+  },
+  {
+   "word": "word",
+   "start": 17.86,
+   "end": 18.1
   },
   {
    "word": "merger.",
-   "start": 11.9,
-   "end": 12.12
-  },
-  {
-   "word": "Neither",
-   "start": 12.93,
-   "end": 13.28
-  },
-  {
-   "word": "had",
-   "start": 13.28,
-   "end": 13.6
-  },
-  {
-   "word": "been",
-   "start": 13.6,
-   "end": 13.78
-  },
-  {
-   "word": "approved.",
-   "start": 13.78,
-   "end": 14.04
+   "start": 18.1,
+   "end": 18.54
   }
  ]
 }

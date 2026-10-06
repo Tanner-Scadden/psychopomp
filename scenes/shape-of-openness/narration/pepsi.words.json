@@ -3,26 +3,31 @@
   {
    "word": "One",
    "start": 0,
-   "end": 0.32
+   "end": 0.34
+  },
+  {
+   "word": "early",
+   "start": 0.34,
+   "end": 0.68
   },
   {
    "word": "proposal",
-   "start": 0.32,
-   "end": 0.66
+   "start": 0.68,
+   "end": 1.1
   },
   {
-   "word": "reconciled",
-   "start": 0.66,
-   "end": 1.68
+   "word": "set",
+   "start": 1.1,
+   "end": 1.56
   },
   {
    "word": "the",
-   "start": 1.68,
-   "end": 1.8
+   "start": 1.56,
+   "end": 1.76
   },
   {
    "word": "thermal",
-   "start": 1.8,
+   "start": 1.76,
    "end": 2.12
   },
   {
@@ -33,107 +38,217 @@
   {
    "word": "of",
    "start": 2.52,
-   "end": 2.7
+   "end": 2.74
   },
   {
    "word": "red",
-   "start": 2.7,
-   "end": 2.98
+   "start": 2.74,
+   "end": 3
   },
   {
-   "word": "with",
-   "start": 2.98,
-   "end": 3.36
+   "word": "against",
+   "start": 3,
+   "end": 3.42
   },
   {
    "word": "the",
-   "start": 3.36,
-   "end": 3.48
+   "start": 3.42,
+   "end": 3.58
   },
   {
    "word": "contemplative",
-   "start": 3.48,
-   "end": 4.14
+   "start": 3.58,
+   "end": 4.24
   },
   {
    "word": "depth",
-   "start": 4.14,
-   "end": 4.46
+   "start": 4.24,
+   "end": 4.56
   },
   {
    "word": "of",
-   "start": 4.46,
-   "end": 4.74
+   "start": 4.56,
+   "end": 4.8
   },
   {
-   "word": "blue.",
-   "start": 4.74,
-   "end": 5.04
+   "word": "blue,",
+   "start": 4.8,
+   "end": 5.08
   },
   {
-   "word": "Recognition",
-   "start": 5.76,
-   "end": 6.4
+   "word": "held",
+   "start": 5.32,
+   "end": 5.8
+  },
+  {
+   "word": "apart",
+   "start": 5.8,
+   "end": 6.04
+  },
+  {
+   "word": "by",
+   "start": 6.04,
+   "end": 6.44
+  },
+  {
+   "word": "a",
+   "start": 6.44,
+   "end": 6.56
+  },
+  {
+   "word": "gentle",
+   "start": 6.56,
+   "end": 6.9
+  },
+  {
+   "word": "white",
+   "start": 6.9,
+   "end": 7.26
+  },
+  {
+   "word": "smile.",
+   "start": 7.26,
+   "end": 7.64
+  },
+  {
+   "word": "Focus",
+   "start": 8.36,
+   "end": 8.7
+  },
+  {
+   "word": "groups",
+   "start": 8.7,
+   "end": 9.02
+  },
+  {
+   "word": "recognized",
+   "start": 9.02,
+   "end": 9.4
+  },
+  {
+   "word": "it",
+   "start": 9.4,
+   "end": 9.82
+  },
+  {
+   "word": "instantly,",
+   "start": 9.82,
+   "end": 10.3
+  },
+  {
+   "word": "which",
+   "start": 10.58,
+   "end": 10.88
   },
   {
    "word": "was",
-   "start": 6.4,
-   "end": 6.64
+   "start": 10.88,
+   "end": 11.02
   },
   {
-   "word": "immediate,",
-   "start": 6.64,
-   "end": 7.08
+   "word": "encouraging,",
+   "start": 11.02,
+   "end": 11.48
   },
   {
-   "word": "particularly",
-   "start": 7.34,
-   "end": 8.06
+   "word": "until",
+   "start": 11.68,
+   "end": 12.24
+  },
+  {
+   "word": "we",
+   "start": 12.24,
+   "end": 12.4
+  },
+  {
+   "word": "asked",
+   "start": 12.4,
+   "end": 12.7
+  },
+  {
+   "word": "what",
+   "start": 12.7,
+   "end": 12.9
+  },
+  {
+   "word": "they",
+   "start": 12.9,
+   "end": 13.08
+  },
+  {
+   "word": "thought",
+   "start": 13.08,
+   "end": 13.42
+  },
+  {
+   "word": "they",
+   "start": 13.42,
+   "end": 13.66
+  },
+  {
+   "word": "had",
+   "start": 13.66,
+   "end": 13.82
+  },
+  {
+   "word": "recognized.",
+   "start": 13.82,
+   "end": 14.2
+  },
+  {
+   "word": "The",
+   "start": 14.62,
+   "end": 15.18
+  },
+  {
+   "word": "proposal",
+   "start": 15.18,
+   "end": 15.58
+  },
+  {
+   "word": "was",
+   "start": 15.58,
+   "end": 15.84
+  },
+  {
+   "word": "rejected.",
+   "start": 15.84,
+   "end": 16.22
+  },
+  {
+   "word": "Its",
+   "start": 16.56,
+   "end": 17.04
+  },
+  {
+   "word": "designer",
+   "start": 17.04,
+   "end": 17.48
+  },
+  {
+   "word": "now",
+   "start": 17.48,
+   "end": 17.7
+  },
+  {
+   "word": "works",
+   "start": 17.7,
+   "end": 18.02
   },
   {
    "word": "in",
-   "start": 8.06,
-   "end": 8.46
+   "start": 18.02,
+   "end": 18.2
   },
   {
-   "word": "the",
-   "start": 8.46,
-   "end": 8.54
+   "word": "soft",
+   "start": 18.2,
+   "end": 18.42
   },
   {
-   "word": "carbonated",
-   "start": 8.54,
-   "end": 9.1
-  },
-  {
-   "word": "beverage",
-   "start": 9.1,
-   "end": 9.36
-  },
-  {
-   "word": "category.",
-   "start": 9.36,
-   "end": 9.88
-  },
-  {
-   "word": "Disposition.",
-   "start": 10.4,
-   "end": 11.04
-  },
-  {
-   "word": "Rejected.",
-   "start": 11.52,
-   "end": 12.16
-  },
-  {
-   "word": "Designer",
-   "start": 12.22,
-   "end": 12.86
-  },
-  {
-   "word": "dismissed.",
-   "start": 12.86,
-   "end": 13.14
+   "word": "drinks.",
+   "start": 18.42,
+   "end": 18.66
   }
  ]
 }
