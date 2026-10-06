@@ -1251,7 +1251,8 @@ their fuller documentation elsewhere.
   and camera pans/zooms. Labels allow 10–320 px type; artwork icons allow 8–2048 px
   sides (their atlas coverage caps at 2048 px). Thick shape strokes allow up to
   256 px; connector strokes retain their 24 px maximum. The narrated example is
-  `scenes/shape-of-openness`, with hard cuts, drawn geometry, and image plates.
+  `scenes/shape-of-openness`, with drawn geometry, image plates, and a hand stencil
+  composited from registered footage layers.
   Orb `pulse` changes illumination, not geometry or attached beam ports. Card
   `flash` lifts ink and rim, not the entire fill. Connecting does not implicitly
   trigger `land`, `twang`, `surge`, or `flow`; author those only when the story

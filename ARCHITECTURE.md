@@ -172,7 +172,7 @@ Scene Programs (`scenes/`), each emitting a Scene Plan, Deck, or Reel:
 - `scenes/opencode-session-tool/`: rapid-fire OpenCode v2 hot-reload proof using a split Vim/OpenCode Video Card, layered SFX, and text
 - `scenes/opencode-jr-architecture/`: narrated Stage-film teaching reel of the OpenCode Jr Slack bot, with one condensed code zoom
 - `scenes/pr-walkthrough/`: narrated PR explainer reels; `src/film.rs` is the shared PR-film template (header, chips, behavior and code segments)
-- `scenes/shape-of-openness/`: flat editorial design film; exact SVG artwork, Helvetica, thick graphic strokes, explicit pigments, image plates, and phrase-timed hard cuts on the Stage
+- `scenes/shape-of-openness/`: flat editorial design film; exact SVG artwork, Helvetica, thick graphic strokes, explicit pigments, image plates, a hand stencil composited from registered footage layers, and phrase-timed transformations on the Stage
 - `scenes/config-migration/`: narrated reels of two OpenCode config pull requests built on the PR-film template
 - `scenes/pr-50231/`: narrated Stage film of the Effect rc.112 → rc.117 upgrade and the three behaviors the compiler could not catch
 - `scenes/rolling-number/`: Rolling Number showroom: roll up and down, a mid-roll redirect, a carry into a new place, and a shrink
