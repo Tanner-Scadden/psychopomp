@@ -850,7 +850,7 @@ fn circle(sc: &mut PlanBuilder, v: &Spoken<'_>) -> Result<()> {
     // The radius keeps its promise all the way round.
     let start = every + s(0.45);
     k.compass("circle", "arm", start, span(start, v.at("round") + s(0.3)));
-    let release = v.at("without");
+    let release = v.at("no corners");
     k.retract("arm", release);
     k.vanish("dot", release + s(0.3), 0.4);
     k.rise("curves", release + s(0.35));

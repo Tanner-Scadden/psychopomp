@@ -3,237 +3,252 @@
   {
    "word": "And",
    "start": 0,
-   "end": 0.12
+   "end": 0.14
   },
   {
    "word": "so,",
-   "start": 0.12,
+   "start": 0.14,
    "end": 0.38
   },
   {
    "word": "after",
-   "start": 0.58,
-   "end": 1.22
+   "start": 0.6,
+   "end": 1.24
   },
   {
    "word": "the",
-   "start": 1.22,
-   "end": 1.4
+   "start": 1.24,
+   "end": 1.42
   },
   {
    "word": "caves,",
-   "start": 1.4,
-   "end": 1.88
+   "start": 1.42,
+   "end": 1.78
   },
   {
    "word": "the",
    "start": 2.08,
-   "end": 2.3
+   "end": 2.32
   },
   {
    "word": "compass,",
-   "start": 2.3,
-   "end": 2.66
+   "start": 2.32,
+   "end": 2.7
   },
   {
    "word": "nine",
-   "start": 3.02,
-   "end": 3.34
+   "start": 3.04,
+   "end": 3.36
   },
   {
    "word": "circles",
-   "start": 3.34,
-   "end": 3.84
+   "start": 3.36,
+   "end": 3.9
   },
   {
    "word": "of",
-   "start": 3.84,
-   "end": 4.1
+   "start": 3.9,
+   "end": 4.2
   },
   {
    "word": "hell,",
-   "start": 4.1,
-   "end": 4.3
+   "start": 4.2,
+   "end": 4.38
   },
   {
    "word": "and",
-   "start": 4.48,
-   "end": 4.94
+   "start": 4.56,
+   "end": 5.02
   },
   {
    "word": "a",
-   "start": 4.94,
-   "end": 5
+   "start": 5.02,
+   "end": 5.08
   },
   {
    "word": "colleague's",
-   "start": 5,
-   "end": 5.46
+   "start": 5.08,
+   "end": 5.56
   },
   {
    "word": "sudden",
-   "start": 5.46,
-   "end": 5.66
+   "start": 5.56,
+   "end": 5.76
   },
   {
    "word": "move",
-   "start": 5.66,
-   "end": 5.98
+   "start": 5.76,
+   "end": 6.08
   },
   {
    "word": "into",
-   "start": 5.98,
-   "end": 6.24
+   "start": 6.08,
+   "end": 6.34
   },
   {
    "word": "soft",
-   "start": 6.24,
-   "end": 6.52
+   "start": 6.34,
+   "end": 6.64
   },
   {
    "word": "drinks,",
-   "start": 6.52,
-   "end": 6.86
+   "start": 6.64,
+   "end": 6.96
   },
   {
    "word": "we",
-   "start": 7.06,
-   "end": 7.6
+   "start": 7.18,
+   "end": 7.62
   },
   {
    "word": "arrived",
-   "start": 7.6,
-   "end": 7.84
+   "start": 7.62,
+   "end": 7.88
   },
   {
    "word": "back",
-   "start": 7.84,
-   "end": 8.16
+   "start": 7.88,
+   "end": 8.2
   },
   {
    "word": "where",
-   "start": 8.16,
-   "end": 8.4
+   "start": 8.2,
+   "end": 8.46
   },
   {
    "word": "we",
-   "start": 8.4,
-   "end": 8.56
+   "start": 8.46,
+   "end": 8.62
   },
   {
-   "word": "began.",
-   "start": 8.56,
-   "end": 8.82
-  },
-  {
-   "word": "A",
-   "start": 9.08,
-   "end": 9.56
-  },
-  {
-   "word": "rectangle",
-   "start": 9.56,
-   "end": 9.94
+   "word": "began,",
+   "start": 8.62,
+   "end": 8.9
   },
   {
    "word": "with",
-   "start": 9.94,
-   "end": 10.68
+   "start": 9.14,
+   "end": 9.64
   },
   {
    "word": "a",
-   "start": 10.68,
-   "end": 10.78
+   "start": 9.64,
+   "end": 9.72
+  },
+  {
+   "word": "rectangle",
+   "start": 9.72,
+   "end": 10.06
+  },
+  {
+   "word": "that",
+   "start": 10.06,
+   "end": 10.5
+  },
+  {
+   "word": "has",
+   "start": 10.5,
+   "end": 10.66
+  },
+  {
+   "word": "a",
+   "start": 10.66,
+   "end": 10.82
   },
   {
    "word": "hole",
-   "start": 10.78,
-   "end": 10.96
+   "start": 10.82,
+   "end": 11.02
   },
   {
    "word": "in",
-   "start": 10.96,
-   "end": 11.14
+   "start": 11.02,
+   "end": 11.2
   },
   {
    "word": "it.",
-   "start": 11.14,
-   "end": 11.28
+   "start": 11.2,
+   "end": 11.38
   },
   {
    "word": "It",
-   "start": 12.06,
-   "end": 12.54
+   "start": 12.040000000000001,
+   "end": 12.56
   },
   {
    "word": "may",
-   "start": 12.54,
-   "end": 12.68
+   "start": 12.56,
+   "end": 12.74
   },
   {
    "word": "be",
-   "start": 12.68,
-   "end": 12.92
+   "start": 12.74,
+   "end": 12.98
   },
   {
    "word": "the",
-   "start": 12.92,
-   "end": 13.06
+   "start": 12.98,
+   "end": 13.14
   },
   {
    "word": "most",
-   "start": 13.06,
-   "end": 13.24
+   "start": 13.14,
+   "end": 13.32
   },
   {
    "word": "important",
-   "start": 13.24,
-   "end": 13.84
+   "start": 13.32,
+   "end": 13.9
   },
   {
    "word": "hole",
-   "start": 13.84,
-   "end": 14.14
+   "start": 13.9,
+   "end": 14.24
   },
   {
    "word": "of",
-   "start": 14.14,
-   "end": 14.4
-  },
-  {
-   "word": "our",
-   "start": 14.4,
+   "start": 14.24,
    "end": 14.5
   },
   {
-   "word": "careers.",
+   "word": "our",
    "start": 14.5,
-   "end": 14.94
+   "end": 14.64
   },
   {
-   "word": "Open",
-   "start": 15.58,
-   "end": 16.06
+   "word": "careers.",
+   "start": 14.64,
+   "end": 15.02
   },
   {
-   "word": "code.",
-   "start": 16.06,
-   "end": 16.3
+   "word": "This",
+   "start": 15.86,
+   "end": 16.38
+  },
+  {
+   "word": "is",
+   "start": 16.38,
+   "end": 16.58
+  },
+  {
+   "word": "OpenCode.",
+   "start": 16.58,
+   "end": 17.24
   },
   {
    "word": "Do",
-   "start": 16.54,
-   "end": 17.02
+   "start": 17.34,
+   "end": 17.84
   },
   {
    "word": "come",
-   "start": 17.02,
-   "end": 17.22
+   "start": 17.84,
+   "end": 18.04
   },
   {
    "word": "in.",
-   "start": 17.22,
-   "end": 17.42
+   "start": 18.04,
+   "end": 18.22
   }
  ]
 }

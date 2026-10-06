@@ -3,282 +3,297 @@
   {
    "word": "Draw",
    "start": 0,
-   "end": 0.22
+   "end": 0.36
   },
   {
    "word": "a",
-   "start": 0.22,
-   "end": 0.42
+   "start": 0.36,
+   "end": 0.56
   },
   {
    "word": "second",
-   "start": 0.42,
-   "end": 0.76
+   "start": 0.56,
+   "end": 0.9
   },
   {
    "word": "circle",
-   "start": 0.76,
-   "end": 1.24
+   "start": 0.9,
+   "end": 1.32
   },
   {
    "word": "through",
-   "start": 1.24,
-   "end": 1.56
+   "start": 1.32,
+   "end": 1.74
   },
   {
    "word": "the",
-   "start": 1.56,
-   "end": 1.7
+   "start": 1.74,
+   "end": 1.86
   },
   {
    "word": "center",
-   "start": 1.7,
-   "end": 2.04
-  },
-  {
-   "word": "of",
-   "start": 2.04,
+   "start": 1.86,
    "end": 2.2
   },
   {
-   "word": "the",
+   "word": "of",
    "start": 2.2,
-   "end": 2.28
+   "end": 2.36
+  },
+  {
+   "word": "the",
+   "start": 2.36,
+   "end": 2.44
   },
   {
    "word": "first,",
-   "start": 2.28,
-   "end": 2.68
+   "start": 2.44,
+   "end": 2.8
   },
   {
    "word": "and",
-   "start": 2.92,
-   "end": 3.22
+   "start": 3.06,
+   "end": 3.38
   },
   {
    "word": "the",
-   "start": 3.22,
-   "end": 3.3
+   "start": 3.38,
+   "end": 3.48
   },
   {
    "word": "overlap",
-   "start": 3.3,
-   "end": 3.72
+   "start": 3.48,
+   "end": 3.9
   },
   {
    "word": "is",
-   "start": 3.72,
-   "end": 3.98
+   "start": 3.9,
+   "end": 4.16
   },
   {
    "word": "called",
-   "start": 3.98,
-   "end": 4.22
+   "start": 4.16,
+   "end": 4.4
   },
   {
    "word": "the",
-   "start": 4.22,
-   "end": 4.36
+   "start": 4.4,
+   "end": 4.56
   },
   {
    "word": "vesica",
-   "start": 4.36,
-   "end": 4.72
+   "start": 4.56,
+   "end": 4.98
   },
   {
    "word": "piscis,",
-   "start": 4.72,
-   "end": 5.36
+   "start": 4.98,
+   "end": 5.6
+  },
+  {
+   "word": "which",
+   "start": 5.64,
+   "end": 6.04
+  },
+  {
+   "word": "is",
+   "start": 6.04,
+   "end": 6.16
   },
   {
    "word": "Latin",
-   "start": 5.44,
-   "end": 6.02
+   "start": 6.16,
+   "end": 6.42
   },
   {
    "word": "for",
-   "start": 6.02,
-   "end": 6.34
-  },
-  {
-   "word": "the",
-   "start": 6.34,
-   "end": 6.48
-  },
-  {
-   "word": "bladder",
-   "start": 6.48,
+   "start": 6.42,
    "end": 6.74
   },
   {
-   "word": "of",
+   "word": "the",
    "start": 6.74,
-   "end": 6.92
+   "end": 6.88
+  },
+  {
+   "word": "bladder",
+   "start": 6.88,
+   "end": 7.16
+  },
+  {
+   "word": "of",
+   "start": 7.16,
+   "end": 7.36
   },
   {
    "word": "a",
-   "start": 6.92,
-   "end": 7.02
+   "start": 7.36,
+   "end": 7.48
   },
   {
-   "word": "fish,",
-   "start": 7.02,
-   "end": 7.34
+   "word": "fish",
+   "start": 7.48,
+   "end": 7.78
   },
   {
    "word": "and",
-   "start": 7.5,
-   "end": 7.84
+   "start": 7.78,
+   "end": 8.14
+  },
+  {
+   "word": "is",
+   "start": 8.14,
+   "end": 8.28
   },
   {
    "word": "generally",
-   "start": 7.84,
-   "end": 8.22
+   "start": 8.28,
+   "end": 8.66
   },
   {
    "word": "left",
-   "start": 8.22,
-   "end": 8.56
+   "start": 8.66,
+   "end": 9.02
   },
   {
    "word": "in",
-   "start": 8.56,
-   "end": 8.78
+   "start": 9.02,
+   "end": 9.22
   },
   {
    "word": "Latin.",
-   "start": 8.78,
-   "end": 9.08
+   "start": 9.22,
+   "end": 9.52
   },
   {
    "word": "Gothic",
-   "start": 9.48,
-   "end": 9.96
+   "start": 9.9,
+   "end": 10.42
   },
   {
    "word": "masons",
-   "start": 9.96,
-   "end": 10.62
+   "start": 10.42,
+   "end": 11.08
   },
   {
    "word": "drew",
-   "start": 10.62,
-   "end": 10.82
-  },
-  {
-   "word": "their",
-   "start": 10.82,
-   "end": 11.02
-  },
-  {
-   "word": "pointed",
-   "start": 11.02,
+   "start": 11.08,
    "end": 11.32
   },
   {
-   "word": "arches",
+   "word": "their",
    "start": 11.32,
+   "end": 11.52
+  },
+  {
+   "word": "pointed",
+   "start": 11.52,
    "end": 11.84
   },
   {
-   "word": "from",
+   "word": "arches",
    "start": 11.84,
-   "end": 12.04
+   "end": 12.4
+  },
+  {
+   "word": "from",
+   "start": 12.4,
+   "end": 12.62
   },
   {
    "word": "it.",
-   "start": 12.04,
-   "end": 12.24
+   "start": 12.62,
+   "end": 12.82
   },
   {
    "word": "We",
-   "start": 12.44,
-   "end": 12.92
+   "start": 12.94,
+   "end": 13.42
   },
   {
    "word": "had",
-   "start": 12.92,
-   "end": 13.1
+   "start": 13.42,
+   "end": 13.58
   },
   {
    "word": "one",
-   "start": 13.1,
-   "end": 13.24
+   "start": 13.58,
+   "end": 13.74
   },
   {
    "word": "framed",
-   "start": 13.24,
-   "end": 13.78
+   "start": 13.74,
+   "end": 14.3
   },
   {
    "word": "and",
-   "start": 13.78,
-   "end": 14.1
-  },
-  {
-   "word": "hung",
-   "start": 14.1,
-   "end": 14.34
-  },
-  {
-   "word": "it",
-   "start": 14.34,
+   "start": 14.3,
    "end": 14.46
   },
   {
-   "word": "above",
+   "word": "hung",
    "start": 14.46,
-   "end": 14.62
+   "end": 14.66
+  },
+  {
+   "word": "it",
+   "start": 14.66,
+   "end": 14.8
+  },
+  {
+   "word": "above",
+   "start": 14.8,
+   "end": 14.96
   },
   {
    "word": "the",
-   "start": 14.62,
-   "end": 14.82
+   "start": 14.96,
+   "end": 15.16
   },
   {
    "word": "rectangle,",
-   "start": 14.82,
-   "end": 15.12
+   "start": 15.16,
+   "end": 15.46
   },
   {
    "word": "in",
-   "start": 15.44,
-   "end": 15.72
+   "start": 15.78,
+   "end": 16.04
   },
   {
    "word": "the",
-   "start": 15.72,
-   "end": 15.8
+   "start": 16.04,
+   "end": 16.14
   },
   {
    "word": "hope",
-   "start": 15.8,
-   "end": 16.02
+   "start": 16.14,
+   "end": 16.34
   },
   {
    "word": "that",
-   "start": 16.02,
-   "end": 16.22
+   "start": 16.34,
+   "end": 16.52
   },
   {
    "word": "something",
-   "start": 16.22,
-   "end": 16.48
+   "start": 16.52,
+   "end": 16.78
   },
   {
    "word": "might",
-   "start": 16.48,
-   "end": 16.84
+   "start": 16.78,
+   "end": 17.14
   },
   {
    "word": "rub",
-   "start": 16.84,
-   "end": 17.06
+   "start": 17.14,
+   "end": 17.38
   },
   {
    "word": "off.",
-   "start": 17.06,
-   "end": 17.28
+   "start": 17.38,
+   "end": 17.6
   }
  ]
 }

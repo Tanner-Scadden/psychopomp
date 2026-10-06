@@ -3,41 +3,41 @@
   {
    "word": "Euclid",
    "start": 0,
-   "end": 0.54
+   "end": 0.58
   },
   {
    "word": "defined",
-   "start": 0.54,
-   "end": 0.84
+   "start": 0.58,
+   "end": 0.86
   },
   {
    "word": "the",
-   "start": 0.84,
-   "end": 1.06
+   "start": 0.86,
+   "end": 1.1
   },
   {
    "word": "circle",
-   "start": 1.06,
-   "end": 1.4
+   "start": 1.1,
+   "end": 1.44
   },
   {
    "word": "as",
-   "start": 1.4,
-   "end": 1.72
+   "start": 1.44,
+   "end": 1.76
   },
   {
    "word": "every",
-   "start": 1.72,
-   "end": 2.08
+   "start": 1.76,
+   "end": 2.14
   },
   {
    "word": "point",
-   "start": 2.08,
-   "end": 2.5
+   "start": 2.14,
+   "end": 2.52
   },
   {
    "word": "at",
-   "start": 2.5,
+   "start": 2.52,
    "end": 2.74
   },
   {
@@ -53,187 +53,202 @@
   {
    "word": "distance",
    "start": 3.1,
-   "end": 3.52
+   "end": 3.5
   },
   {
    "word": "from",
-   "start": 3.52,
-   "end": 3.78
+   "start": 3.5,
+   "end": 3.76
   },
   {
    "word": "a",
-   "start": 3.78,
-   "end": 3.88
+   "start": 3.76,
+   "end": 3.86
   },
   {
-   "word": "center.",
-   "start": 3.88,
+   "word": "center,",
+   "start": 3.86,
    "end": 4.22
   },
   {
-   "word": "A",
-   "start": 4.739999999999999,
-   "end": 5.04
+   "word": "so",
+   "start": 4.36,
+   "end": 4.78
   },
   {
-   "word": "promise",
-   "start": 5.04,
-   "end": 5.3
+   "word": "it",
+   "start": 4.78,
+   "end": 4.92
   },
   {
-   "word": "kept",
-   "start": 5.3,
-   "end": 5.62
-  },
-  {
-   "word": "all",
-   "start": 5.62,
-   "end": 6
+   "word": "keeps",
+   "start": 4.92,
+   "end": 5.2
   },
   {
    "word": "the",
-   "start": 6,
-   "end": 6.14
+   "start": 5.2,
+   "end": 5.3
+  },
+  {
+   "word": "same",
+   "start": 5.3,
+   "end": 5.56
+  },
+  {
+   "word": "promise",
+   "start": 5.56,
+   "end": 5.92
+  },
+  {
+   "word": "all",
+   "start": 5.92,
+   "end": 6.18
+  },
+  {
+   "word": "the",
+   "start": 6.18,
+   "end": 6.36
   },
   {
    "word": "way",
-   "start": 6.14,
-   "end": 6.3
+   "start": 6.36,
+   "end": 6.52
   },
   {
-   "word": "round,",
-   "start": 6.3,
-   "end": 6.56
+   "word": "round",
+   "start": 6.52,
+   "end": 6.78
   },
   {
-   "word": "without",
+   "word": "and",
    "start": 6.78,
-   "end": 7.14
+   "end": 7.04
   },
   {
-   "word": "a",
-   "start": 7.14,
-   "end": 7.32
-  },
-  {
-   "word": "single",
-   "start": 7.32,
-   "end": 7.64
-  },
-  {
-   "word": "corner",
-   "start": 7.64,
-   "end": 8.14
-  },
-  {
-   "word": "to",
-   "start": 8.14,
-   "end": 8.34
-  },
-  {
-   "word": "hide",
-   "start": 8.34,
-   "end": 8.56
-  },
-  {
-   "word": "behind.",
-   "start": 8.56,
-   "end": 8.9
-  },
-  {
-   "word": "We",
-   "start": 9.18,
-   "end": 9.78
-  },
-  {
-   "word": "admired",
-   "start": 9.78,
-   "end": 10.2
-  },
-  {
-   "word": "it",
-   "start": 10.2,
-   "end": 10.38
-  },
-  {
-   "word": "enormously.",
-   "start": 10.38,
-   "end": 10.78
-  },
-  {
-   "word": "And",
-   "start": 11.7,
-   "end": 12
-  },
-  {
-   "word": "then,",
-   "start": 12,
-   "end": 12.28
-  },
-  {
-   "word": "with",
-   "start": 12.44,
-   "end": 12.84
-  },
-  {
-   "word": "genuine",
-   "start": 12.84,
-   "end": 13.28
-  },
-  {
-   "word": "regret,",
-   "start": 13.28,
-   "end": 13.66
-  },
-  {
-   "word": "we",
-   "start": 13.96,
-   "end": 14.36
-  },
-  {
-   "word": "left",
-   "start": 14.36,
-   "end": 14.6
-  },
-  {
-   "word": "it",
-   "start": 14.6,
-   "end": 14.7
-  },
-  {
-   "word": "out.",
-   "start": 14.7,
-   "end": 14.94
-  },
-  {
-   "word": "The",
-   "start": 15.459999999999999,
-   "end": 15.76
-  },
-  {
-   "word": "mark",
-   "start": 15.76,
-   "end": 15.96
-  },
-  {
-   "word": "contains",
-   "start": 15.96,
-   "end": 16.26
+   "word": "has",
+   "start": 7.04,
+   "end": 7.2
   },
   {
    "word": "no",
-   "start": 16.26,
-   "end": 16.66
+   "start": 7.2,
+   "end": 7.46
+  },
+  {
+   "word": "corners",
+   "start": 7.46,
+   "end": 7.94
+  },
+  {
+   "word": "to",
+   "start": 7.94,
+   "end": 8.12
+  },
+  {
+   "word": "hide",
+   "start": 8.12,
+   "end": 8.34
+  },
+  {
+   "word": "behind.",
+   "start": 8.34,
+   "end": 8.66
+  },
+  {
+   "word": "We",
+   "start": 8.96,
+   "end": 9.52
+  },
+  {
+   "word": "admired",
+   "start": 9.52,
+   "end": 9.94
+  },
+  {
+   "word": "it",
+   "start": 9.94,
+   "end": 10.1
+  },
+  {
+   "word": "enormously,",
+   "start": 10.1,
+   "end": 10.56
+  },
+  {
+   "word": "and",
+   "start": 10.96,
+   "end": 11.44
+  },
+  {
+   "word": "then,",
+   "start": 11.44,
+   "end": 11.74
+  },
+  {
+   "word": "with",
+   "start": 11.82,
+   "end": 12.18
+  },
+  {
+   "word": "genuine",
+   "start": 12.18,
+   "end": 12.64
+  },
+  {
+   "word": "regret,",
+   "start": 12.64,
+   "end": 13
+  },
+  {
+   "word": "we",
+   "start": 13.3,
+   "end": 13.7
+  },
+  {
+   "word": "left",
+   "start": 13.7,
+   "end": 13.96
+  },
+  {
+   "word": "it",
+   "start": 13.96,
+   "end": 14.06
+  },
+  {
+   "word": "out.",
+   "start": 14.06,
+   "end": 14.3
+  },
+  {
+   "word": "The",
+   "start": 14.48,
+   "end": 15.04
+  },
+  {
+   "word": "mark",
+   "start": 15.04,
+   "end": 15.26
+  },
+  {
+   "word": "contains",
+   "start": 15.26,
+   "end": 15.54
+  },
+  {
+   "word": "no",
+   "start": 15.54,
+   "end": 15.96
   },
   {
    "word": "curves",
-   "start": 16.66,
-   "end": 17.14
+   "start": 15.96,
+   "end": 16.4
   },
   {
    "word": "whatsoever.",
-   "start": 17.14,
-   "end": 17.52
+   "start": 16.4,
+   "end": 16.82
   }
  ]
 }

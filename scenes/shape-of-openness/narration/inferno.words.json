@@ -3,232 +3,232 @@
   {
    "word": "Dante",
    "start": 0,
-   "end": 0.46
+   "end": 0.34
   },
   {
    "word": "arranged",
-   "start": 0.46,
-   "end": 0.78
+   "start": 0.34,
+   "end": 0.66
   },
   {
    "word": "Hell",
-   "start": 0.78,
-   "end": 1.26
+   "start": 0.66,
+   "end": 1.14
   },
   {
    "word": "as",
-   "start": 1.26,
-   "end": 1.58
+   "start": 1.14,
+   "end": 1.42
   },
   {
    "word": "nine",
-   "start": 1.58,
-   "end": 1.86
+   "start": 1.42,
+   "end": 1.68
   },
   {
    "word": "circles,",
-   "start": 1.86,
-   "end": 2.52
+   "start": 1.68,
+   "end": 2.34
   },
   {
    "word": "each",
-   "start": 2.8,
-   "end": 3.2
+   "start": 2.64,
+   "end": 3.02
   },
   {
    "word": "narrower",
-   "start": 3.2,
-   "end": 3.76
+   "start": 3.02,
+   "end": 3.52
   },
   {
    "word": "than",
-   "start": 3.76,
-   "end": 4.06
+   "start": 3.52,
+   "end": 3.82
   },
   {
    "word": "the",
-   "start": 4.06,
-   "end": 4.18
+   "start": 3.82,
+   "end": 3.94
   },
   {
    "word": "last,",
-   "start": 4.18,
-   "end": 4.54
+   "start": 3.94,
+   "end": 4.24
   },
   {
    "word": "descending",
-   "start": 4.7,
-   "end": 5.26
+   "start": 4.46,
+   "end": 5
   },
   {
    "word": "towards",
-   "start": 5.26,
-   "end": 5.7
+   "start": 5,
+   "end": 5.42
   },
   {
    "word": "a",
+   "start": 5.42,
+   "end": 5.7
+  },
+  {
+   "word": "center",
    "start": 5.7,
    "end": 5.98
   },
   {
-   "word": "center",
-   "start": 5.98,
-   "end": 6.24
-  },
-  {
    "word": "that",
-   "start": 6.24,
-   "end": 6.48
+   "start": 5.98,
+   "end": 6.18
   },
   {
-   "word": "is",
-   "start": 6.48,
-   "end": 6.62
+   "word": "most",
+   "start": 6.18,
+   "end": 6.4
   },
   {
-   "word": "not",
-   "start": 6.62,
+   "word": "visitors",
+   "start": 6.4,
    "end": 6.86
   },
   {
-   "word": "on",
+   "word": "expect",
    "start": 6.86,
-   "end": 7.04
+   "end": 7.2
   },
   {
-   "word": "fire,",
-   "start": 7.04,
-   "end": 7.48
+   "word": "to",
+   "start": 7.2,
+   "end": 7.44
   },
   {
-   "word": "as",
-   "start": 7.6,
-   "end": 7.84
+   "word": "be",
+   "start": 7.44,
+   "end": 7.54
   },
   {
-   "word": "is",
-   "start": 7.84,
-   "end": 8
+   "word": "on",
+   "start": 7.54,
+   "end": 7.68
   },
   {
-   "word": "commonly",
-   "start": 8,
-   "end": 8.3
-  },
-  {
-   "word": "assumed,",
-   "start": 8.3,
-   "end": 8.76
-  },
-  {
-   "word": "but",
-   "start": 9,
-   "end": 9.4
-  },
-  {
-   "word": "frozen",
-   "start": 9.4,
-   "end": 9.78
-  },
-  {
-   "word": "solid.",
-   "start": 9.78,
-   "end": 10.32
-  },
-  {
-   "word": "We",
-   "start": 10.88,
-   "end": 11.44
-  },
-  {
-   "word": "went",
-   "start": 11.44,
-   "end": 11.64
-  },
-  {
-   "word": "all",
-   "start": 11.64,
-   "end": 11.84
-  },
-  {
-   "word": "the",
-   "start": 11.84,
-   "end": 12
-  },
-  {
-   "word": "way",
-   "start": 12,
-   "end": 12.16
-  },
-  {
-   "word": "down,",
-   "start": 12.16,
-   "end": 12.5
-  },
-  {
-   "word": "purely",
-   "start": 12.64,
-   "end": 13.14
-  },
-  {
-   "word": "for",
-   "start": 13.14,
-   "end": 13.36
-  },
-  {
-   "word": "research,",
-   "start": 13.36,
-   "end": 13.72
+   "word": "fire",
+   "start": 7.68,
+   "end": 8.12
   },
   {
    "word": "and",
-   "start": 14,
-   "end": 14.44
+   "start": 8.12,
+   "end": 8.56
+  },
+  {
+   "word": "find",
+   "start": 8.56,
+   "end": 8.8
+  },
+  {
+   "word": "frozen",
+   "start": 8.8,
+   "end": 9.26
+  },
+  {
+   "word": "solid.",
+   "start": 9.26,
+   "end": 9.78
+  },
+  {
+   "word": "We",
+   "start": 10.22,
+   "end": 10.82
+  },
+  {
+   "word": "went",
+   "start": 10.82,
+   "end": 11
+  },
+  {
+   "word": "all",
+   "start": 11,
+   "end": 11.2
+  },
+  {
+   "word": "the",
+   "start": 11.2,
+   "end": 11.36
+  },
+  {
+   "word": "way",
+   "start": 11.36,
+   "end": 11.54
+  },
+  {
+   "word": "down,",
+   "start": 11.54,
+   "end": 11.86
+  },
+  {
+   "word": "purely",
+   "start": 12,
+   "end": 12.5
+  },
+  {
+   "word": "for",
+   "start": 12.5,
+   "end": 12.72
+  },
+  {
+   "word": "research,",
+   "start": 12.72,
+   "end": 13.12
+  },
+  {
+   "word": "and",
+   "start": 13.38,
+   "end": 13.7
   },
   {
    "word": "came",
-   "start": 14.44,
-   "end": 14.64
+   "start": 13.7,
+   "end": 13.94
   },
   {
    "word": "back",
-   "start": 14.64,
-   "end": 14.86
+   "start": 13.94,
+   "end": 14.14
   },
   {
    "word": "with",
-   "start": 14.86,
-   "end": 15.06
+   "start": 14.14,
+   "end": 14.32
   },
   {
    "word": "some",
-   "start": 15.06,
-   "end": 15.2
+   "start": 14.32,
+   "end": 14.46
   },
   {
    "word": "very",
-   "start": 15.2,
-   "end": 15.5
+   "start": 14.46,
+   "end": 14.8
   },
   {
    "word": "firm",
-   "start": 15.5,
-   "end": 15.86
+   "start": 14.8,
+   "end": 15.22
   },
   {
    "word": "views",
-   "start": 15.86,
-   "end": 16.14
+   "start": 15.22,
+   "end": 15.54
   },
   {
    "word": "on",
-   "start": 16.14,
-   "end": 16.4
+   "start": 15.54,
+   "end": 15.84
   },
   {
    "word": "onboarding.",
-   "start": 16.4,
-   "end": 17.04
+   "start": 15.84,
+   "end": 16.42
   }
  ]
 }
