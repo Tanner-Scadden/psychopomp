@@ -265,7 +265,7 @@ impl Theme {
     }
 }
 
-/// A theme loaded from a JSON file; see `examples/themes/light.json`.
+/// A theme loaded from a JSON file; see `assets/themes/light.json`.
 #[derive(Debug)]
 pub struct CustomTheme {
     name: String,

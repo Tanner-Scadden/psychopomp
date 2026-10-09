@@ -169,10 +169,10 @@ cargo run --release -- plan render target/slideshow-components/venn-showcase.jso
 
 `--theme` also takes a theme file, any path ending in `.json`, so a reel can wear
 a product's palette and typeface without a new built-in theme
-([`examples/themes/light.json`](examples/themes/light.json)):
+([`assets/themes/light.json`](assets/themes/light.json)):
 
 ```sh
-cargo run --release -- plan snapshot target/text-surfaces.json 10,24 output/light --theme examples/themes/light.json
+cargo run --release -- plan snapshot target/text-surfaces.json 10,24 output/light --theme assets/themes/light.json
 ```
 
 A theme file sets every palette color as `#RRGGBB`: `background`, `surface`,
